@@ -1,0 +1,2203 @@
+番号,section,単語,意味
+1,section1,victory,勝利、征服
+2,section1,please,～を喜ばせる、～を満足させる；好む、欲する
+3,section1,party,党、政党；一行、仲間；当事者、関係者、共犯者；相手方；パーティー
+4,section1,overcome,～に打ち勝つ；～を克服する; (be overcome）うちのめされる
+5,section1,comprehend,～を理解する；～を包含する
+6,section1,able,できる (be able to V=can V)；有能な、能力のある
+7,section1,academic,学問の、学究的な；学園の、大学（教育）の
+8,section1,favor,好意、親切な行為；支持；～に賛成する；～をえこひいきする
+9,section1,bend,～を曲げる；曲がる
+10,section1,fluent,流暢な、緩やかな
+11,section1,improve,～を改良する、～を改善する；よくなる
+12,section1,advance,～を進める；～を昇進させる；前進、進歩；昇進
+13,section1,marvelous,驚くべき、不思議な；素晴らしい
+14,section1,grateful,感謝している
+15,section1,appreciate,～を正しく理解する；～を正しく評価する；～を鑑賞する；～を感謝する
+16,section1,content,（～に）満足して；満足している；（スピーチ、論文などの）内容、中身
+17,section1,congratulate,～を祝う；～におめでとうと言う；～にお祝いを言う
+18,section1,prosperity,繁栄、幸運
+19,section1,persist,固執する；主張し続ける；(辛抱強く)～し続ける；（慣習等が）存続する
+20,section1,flourish,繁栄する、生い茂る；活躍する
+21,section1,glorious,栄光ある、すばらしい、輝かしい、名誉な
+22,section1,thrive,栄える；うまくやっている；成長する
+23,section1,inborn,生まれつきの、生来の
+24,section1,inherent,本来備わっている、（～に）固有の
+25,section1,inherit,～を受け継ぐ、～を相続する
+26,section1,sermon,（教会での）説教；小言
+27,section1,bliss,至福
+28,section1,sacred,神聖な
+29,section1,ritual,（伝統的・宗教的な）儀式；日常の習慣的行為
+30,section1,advocate,～を主張する、唱える、支持する；支持者、主張・提唱者
+31,section1,knight,騎士
+32,section1,playwright,脚本家、劇作家
+33,section1,region,地域、地方；分野、領域；（身体の）部分
+34,section1,population,人口；住民；集団
+35,section1,custom,慣習；習慣；（商店などへの）愛顧；（～s）関税、税関
+36,section1,popular,人気のある；大衆的な、一般の、国民の
+37,section1,invite,～を招待する、～を誘う；～に（～することを）勧める
+38,section1,obtain,～を得る
+39,section1,greet,～にあいさつをする、～を歓迎する
+40,section1,violate,～に違反する、～を侵害する、～に暴行する
+41,section1,violent,激しい、乱暴な、暴力的な、猛烈な
+42,section1,unemployment,失業（状態）；失業率
+43,section1,fire,（労働者）を首にする；（銃など）を発射する
+44,section1,employ,～を雇う、～を用いる
+45,section1,demonstrate,～を（実例で）説明する、～を実演する、～を証明する
+46,section1,merchant,貿易商、商人
+47,section1,military,軍（隊）の；軍人の
+48,section1,weapon,武器、兵器
+49,section1,status,地位、身分；状況；高い社会的地位
+50,section1,purchase,～を購入する
+51,section1,garbage,ゴミ；くだらないもの
+52,section1,luxury,豪華なもの；贅沢（品）
+53,section1,domestic,家庭の、家庭的な；国内の；飼い慣らされた
+54,section1,realm,領域、分野；王国
+55,section1,democrat,民主主義者；民主党議員
+56,section1,salute,会釈する；敬礼する
+57,section1,dismiss,～を解雇する；～を捨てる；～を解散する；～を退ける
+58,section1,hierarchy,階級制度、ヒエラルキー; 支配層
+59,section1,republic,共和国；団体、社会
+60,section1,grocery,食料雑貨店、（～ies）食料雑貨（品）
+61,section1,peasant,小作農；農民
+62,section1,autocrat,独裁者、専制君主
+63,section1,monarch,君主、皇帝
+64,section1,regime,政権；（社会）制度、体制
+65,section1,absorb,～を吸収する；～の心を奪う；～を夢中にさせる
+66,section1,deal,扱う
+67,section1,gather,～を集める；～だとわかる；（～である）と推測する、（速度など）を増す
+68,section1,gaze,じっと見つめる、見つめる
+69,section1,glance,ちらりと見る、ざっと見る
+70,section1,glimpse,ちらりと見る、（～が）ちらりと見える
+71,section1,observe,（法律など）を守る；（祝祭日など）を祝う；～を観察する;～と言う
+72,section1,remind,（人）に思い出させる；～に（...を）気づかせる
+73,section1,remember,～を思い出す、～を覚えている；～のことをよろしくと伝える
+74,section1,include,～を含む、～を同封する
+75,section1,profit,利益
+76,section1,benefit,恩恵；利益
+77,section1,stare,じっと見つめる
+78,section1,recollect,～を思い出す
+79,section1,recall,～を思い出す；～を回収する
+80,section1,defend,～を守る、～を弁護する
+81,section1,offend,～を怒らせる、～を不快にさせる
+82,section1,miss,～に間に合わない；～しそこなう；～がないのを寂しく思う；(狙い)をはずす
+83,section1,presume,～を推定する；（～である）と思う
+84,section1,protest,～に抗議する
+85,section1,irritate,～をいらいらさせる
+86,section1,banish,～を追放する
+87,section1,vanish,（突然、または完全に）消える；（完全に）消滅する；薄れる
+88,section1,assault,攻撃、暴行
+89,section1,surrender,降伏する；（感情などに）身を任せる
+90,section1,dispute,（～について）論争する、議論する
+91,section1,repent,～を後悔する、～を残念に思う
+92,section1,reconcile,～を和解させる、～を調和させる；（運命・損失などに）甘んじる
+93,section1,agitate,～を動揺（興奮）させる、～を扇動する；～をかくはんする
+94,section1,manipulate,～を巧みに扱う、～をうまく処理する；(人、世論等）を操作する
+95,section1,persecute,～を迫害する；～を悩ます
+96,section1,provoke,～を怒らせる；(感情など）を起こさせる；～を駆り立てる
+97,section1,environment,（自然）環境、（周囲の）環境
+98,section1,atmosphere,雰囲気；大気；空気
+99,section1,hell,地獄
+100,section1,heaven,天国；（H～で）神
+101,section2,major,主要な；大多数の；重要な；より大きな
+102,section2,minor,小さな；重要でない、主要でない、下位の；たいしたことがない
+103,section2,harbor,港、湾；避難所、隠れ場所
+104,section2,subway,地下鉄（アメリカ用法）；地下道（イギリス用法）
+105,section2,tremendous,巨大な、莫大な；すさまじい、ものすごい
+106,section2,vast,広大な；莫大な
+107,section2,previous,以前の；（時間・順序的に）前の～、前回の～
+108,section2,eminent,著名な、すぐれた、卓越した
+109,section2,outstanding,目立った；傑出した；未解決の
+110,section2,missing,行方不明の；欠落した；欠けている
+111,section2,generous,寛大な、気前の良い；たくさんの
+112,section2,scarce,乏しい、不十分な、少ない、不足した
+113,section2,affluent,豊かな、裕福な、おびただしい
+114,section2,faint,かすかな、弱々しい、ぼんやりした、気を失いそうな
+115,section2,suburb,郊外、住宅地；(～s) 周辺、付近
+116,section2,astronomy,天文学
+117,section2,superficial,表面の、うわべだけの
+118,section2,shallow,浅い；浅はかな
+119,section2,conspicuous,目立つ；人目を引く
+120,section2,eternal,永遠の、永久の
+121,section2,transient,一時的な、つかの間の；短期滞在の
+122,section2,profound,（意味などが）深い、深遠な；難解な
+123,section2,legitimate,正当な；合法的な
+124,section2,invalid,無効の、根拠の薄い；病弱な
+125,section2,minute,非常に小さい、ささいな、詳細な
+126,section2,reckless,向こう見ずな；気にかけない
+127,section2,superfluous,過分の；無用の
+128,section2,prudent,用心深い；分別のある
+129,section2,arbitrary,任意の；独断的な
+130,section2,deprive,～から（～を）奪う、～から剥奪する
+131,section2,rob,～から（...を）奪う
+132,section2,own,～を持っている
+133,section2,owe,～に借りがある；～に負うている
+134,section2,perform,～を演奏・上演する；（仕事など）を行う、～を遂行する
+135,section2,decline,～を断る
+136,section2,increase,増加する；上昇する
+137,section2,fix,～を修理する；（食事など）を用意する；～を固定する；～を決める
+138,section2,wind,曲がりくねる
+139,section2,decide,～を決意する、（論争、問題など）に決着をつける、～を決める
+140,section2,determine,～を決意する、～を決心する、～を（はっきりと）決める
+141,section2,abolish,（法律、制度など）を廃止する
+142,section2,extend,～を延長する、～を拡大する；～を示す、～を施す
+143,section2,bury,～を埋める；～を埋葬する
+144,section2,dig,（～を）掘る、～を掘り出す
+145,section2,encounter,～に偶然出くわす；～に直面する
+146,section2,declare,～を宣言する、～と言明する、～と断言する
+147,section2,negotiate,交渉する、話し合う
+148,section2,grasp,～をつかむ；～を理解する
+149,section2,measure,～を測る、～を見積もる、～を示す；寸法：測定；（～s）手段、対策
+150,section2,discard,～を捨てる
+151,section2,abandon,～を放棄する；～をあきらめる；～を捨てる；～を見捨てる
+152,section2,enhance,（価値など）を高める
+153,section2,diminish,～を減少させる、～を小さくする
+154,section2,prolong,（時間・期間など）を延長する
+155,section2,overhear,～をふと耳にする
+156,section2,overlook,～を見落とす；～を大目に見る；～を見下ろす
+157,section2,pursue,～を追跡する；～を追求する；（仕事など）に従事する
+158,section2,warrant,～を保証する；（事）からすると～は当然のことである
+159,section2,compensate,～に（～を）補償する；～に埋め合わせをする；（～に）償う
+160,section2,paralyze,～を麻痺させる
+161,section2,groan,（絶望などで）うめく
+162,section2,witch,魔女
+163,section2,experience,経験、体験
+164,section2,sweat,汗；骨折りの仕事
+165,section2,summary,要約、大意
+166,section2,talent,才能、素質；才能のある人
+167,section2,storm,嵐、荒天
+168,section2,principle,原理、原則；本質、根元；（～s）基礎
+169,section2,principal,主要な、第一位の
+170,section2,purpose,目的；意図
+171,section2,psychology,心理学；心理（状態）；心理作戦
+172,section2,museum,博物館；美術館
+173,section2,notion,概念、考え、意見；気まぐれな考え
+174,section2,vary,変わる、変化する、異なる
+175,section2,doctrine,（宗教上の）教義；（政策上の）主義
+176,section2,district,地区、地方、地域
+177,section2,court,裁判所、宮廷、庭、（テニスなどの）コート
+178,section2,burden,重荷；荷物；負担；苦労
+179,section2,tribe,部族、種族
+180,section2,tragedy,悲劇、悲劇的な出来事
+181,section2,tension,緊張、不安、緊迫状態；張りの度合い
+182,section2,experiment,実験、試験
+183,section2,hostage,人質
+184,section2,friction,摩擦；あつれき、不和
+185,section2,fraction,断片；一部；分散
+186,section2,aristocracy,貴族政治；（the～) 貴族階級
+187,section2,agony,苦悩、苦しみ
+188,section2,agitator,扇動家
+189,section2,foe,敵
+190,section2,outbreak,（悪いことの）突発、発生；暴動、反乱
+191,section2,perseverance,忍耐、根気強さ
+192,section2,kidnap,～を誘拐する
+193,section2,tyranny,暴政、圧政；過酷
+194,section2,crisis,危機
+195,section2,compare,～を比較する；～をたとえる
+196,section2,enemy,敵
+197,section2,degree,学位；（温度・角度などの）度；程度、段階
+198,section2,junior,（～より）下級［年下・年少］の
+199,section2,senior,年上の；（役職、地位などが）上の
+200,section2,research,研究、調査
+201,section3,reason,理由、根拠；理性、思考力；道理
+202,section3,concern,関心事；関係；心配；懸念；（関係のある［心配すべき］）事柄
+203,section3,average,平均
+204,section3,absolute,完全な；全くの；絶対的な、絶対の
+205,section3,depart,出発する；はずれる
+206,section3,divorce,～と離婚する；～を（...から）分離する
+207,section3,vacant,（部屋・座席などが）空いている；からの；うつろな
+208,section3,endanger,～を危険にさらす
+209,section3,perish,死ぬ；消滅する；悪くなる
+210,section3,instinct,本能、天性
+211,section3,impulse,衝動；衝撃
+212,section3,compete,競争する；匹敵する
+213,section3,competent,能力のある、有能な
+214,section3,intimate,親密な、とても私的な、内心の
+215,section3,jealous,嫉妬深い；妬んで
+216,section3,terminate,～を終わらせる
+217,section3,shatter,粉々になる
+218,section3,peril,危険
+219,section3,intricate,入り組んだ、複雑な、はっきりしない
+220,section3,crush,～を押しつぶす
+221,section3,crash,衝突、墜落；すさまじい音；株価などの暴落
+222,section3,intervene,干渉する、仲裁する；（２つの時期などの間に）介在する
+223,section3,split,～を割る、～を裂く；～を分配する
+224,section3,infectious,伝染性の
+225,section3,devastating,壊滅的な被害をもたらす、壊滅的な
+226,section3,intuition,直観
+227,section3,harvest,収穫（物）、収穫量（高）
+228,section3,heir,相続人
+229,section3,numerous,多数の、多くの
+230,section3,fortune,運；幸運；繁栄；財産、富
+231,section3,gain,～を得る、～を増やす
+232,section3,resource,（～ｓ）資源、財源、貯蔵、手段；臨機応変の才、機転
+233,section3,search,～を捜す；～を所持品検査する
+234,section3,lesson,教訓；授業；（教科書の）課
+235,section3,fate,運命
+236,section3,discipline,訓練、修行、しつけ、規律；学科、学問領域
+237,section3,temple,寺院、神殿
+238,section3,learned,学問のある；博学な
+239,section3,genius,天才、非凡な才能
+240,section3,insight,洞察（力）
+241,section3,generate,～を生み出す；～を発生させる
+242,section3,fund,資金、基金
+243,section3,millionaire,百万長者、大富豪
+244,section3,multiply,～をどんどん増やす；～に（数）を掛ける
+245,section3,lessen,～を少なくする
+246,section3,endeavor,努力、試み
+247,section3,destiny,運命、宿命
+248,section3,religion,宗教、信仰；信条、主義
+249,section3,coherent,一貫した；筋の通った
+250,section3,cite,～を引用する
+251,section3,quote,～を引用する
+252,section3,thesis,主題、論題；命題；（学位）論文
+253,section3,verify,～が正しいことを証明する；～を確かめる
+254,section3,withhold,～を保留する；（感情など）をおさえる
+255,section3,hypothesis,仮説、前提
+256,section3,analogy,類推；類似
+257,section3,premier,首相
+258,section3,embassy,大使館
+259,section3,ambassador,大使
+260,section3,encourage,～を勇気づける、～を励ます、～を促進する
+261,section3,disappoint,～を失望させる、～をがっかりさせる
+262,section3,prefer,～を好む；～が好きだ
+263,section3,hate,～を憎む、～を嫌う、～が大嫌い
+264,section3,hatred,憎しみ、嫌悪
+265,section3,praise,～をほめる、～を賞賛する
+266,section3,demand,～を要求する；～を尋ねる
+267,section3,supply,～を供給する、～に与える；～を補充する
+268,section3,income,収入、所得
+269,section3,impose,（義務など）を課す、（意見など）を押しつける
+270,section3,tax,税金、重い負担
+271,section3,naked,裸の；むきだしの；ありのままの
+272,section3,muscle,筋肉；筋力、腕力、体力
+273,section3,obstacle,障害（物）、支障
+274,section3,interfere,干渉する、妨げる、邪魔［妨害］をする
+275,section3,efficient,効率的な、有能な、効率的に仕事をこなす
+276,section3,effect,影響、効果；結果；（結果を）もたらす
+277,section3,reputation,評判、名声、信望
+278,section3,widespread,広範囲に及ぶ
+279,section3,sole,唯一の；単独の
+280,section3,soul,魂、精神；人；情熱；本質的なもの
+281,section3,exclaim,叫ぶ
+282,section3,minister,大臣；牧師、聖職者
+283,section3,pray,祈る；～に懇願する
+284,section3,retreat,退却；休養の場所；退却する；引退する
+285,section3,sequence,連続（するもの）; 結果
+286,section3,meditate,深く考える；熟慮する；瞑想する
+287,section3,flatter,～にお世辞を言う、～にへつらう；～をうれしがらせる、～をおだてる
+288,section3,compliment,ほめ言葉；賛辞
+289,section3,supplement,補足、付録
+290,section3,traitor,反逆者、裏切り者
+291,section3,sneer,冷笑する
+292,section3,fanatical,狂信的な、熱狂的な
+293,section3,lose,～を失う；（試合など）に負ける；（体重など）を減らす
+294,section3,progress,前進、発展；経過
+295,section3,object,物、物体；対象；目的、目標；目的語
+296,section3,source,源；出所、原因
+297,section3,liquid,液体；流動体
+298,section3,spring,泉；春；バネ
+299,section3,perspective,観点、展望；遠近法
+300,section3,proceed,進む、前進する；続ける；向かう；手続きする、処分する
+301,section4,series,連続、続き
+302,section4,origin,起源、由来、発端；生まれ、血統
+303,section4,leave,～を置き忘れる；～を(...の状態)にしておく；～を任せる；～を置き去る；～を残す；～を出発する；出発する、退学する；休暇；許可
+304,section4,phase,（発達、変化の）段階、時期；（問題などの）面、側面；局面
+305,section4,melt,溶ける、やわらぐ、いなくなる、なくなる
+306,section4,extinct,（動物のある種族などが）絶滅した、消えた
+307,section4,descend,下る；伝わる、遺伝する
+308,section4,stretch,～を伸ばす；（手など）を差しのばす；～を誇張・曲解する
+309,section4,sink,沈む；衰える
+310,section4,shrink,縮む、減少する；しりごみする
+311,section4,shift,～を変える、～を移す
+312,section4,reform,～を改革する、～を刷新する
+313,section4,refine,～を精製する；（技術など）を磨く、～を洗練されたものにする
+314,section4,prevail,普及している；勝る、支配する；うまくいく
+315,section4,substance,物質、薬物；本質、中身；要旨、骨子
+316,section4,stuff,材料；（漠然と）物、こと；要素
+317,section4,symptom,徴候、兆し；症状
+318,section4,surplus,余剰、過剰；黒字、利益
+319,section4,surpass,～をしのぐ；～を越える
+320,section4,recede,後退する、手を引く
+321,section4,launch,（船）を進水させる；～を打ち上げる；～を開始する
+322,section4,ascribe,～を（...の）せいにする；～を（...の）作品とする
+323,section4,gauge,計器；標準寸法、規格
+324,section4,incentive,刺激、動機；報償（金）
+325,section4,rot,腐敗する
+326,section4,do,～に～をもたらす、役に立つ；～をする
+327,section4,announce,～を公表する；～と知らせる
+328,section4,operation,運転、操作；実施；作業、活動、生産過程；手術；軍事行動
+329,section4,behave,振る舞う；行儀よくする
+330,section4,attempt,～を試みる
+331,section4,guess,～と推測する、～を推測する、～を言い当てる
+332,section4,raise,（料金・程度など）を高くする、（体の一部）を上げる；～を育てる
+333,section4,raw,生の、加工していない；未熟な
+334,section4,want,（必要なものの）欠乏；貧困；必要
+335,section4,reduce,～を減少させる；～を弱める；～を変える
+336,section4,short,短い、不足して；背が低い；簡潔な
+337,section4,quit,～をやめる
+338,section4,swift,迅速な；即座の
+339,section4,cease,やむ、とまる
+340,section4,strike,～を打つ；（考えなどが人の心）に浮かぶ；（事が人）に印象を与える
+341,section4,chase,～を追跡する
+342,section4,arouse,～を刺激する；～を目覚めさせる；～をかきたてる
+343,section4,utilize,～を利用する；～を役立たせる
+344,section4,conduct,（道徳上の）行い；指導；行為；管理
+345,section4,pause,休止；句切り；ちゅうちょ
+346,section4,ascend,登る
+347,section4,nod,うなずく、会釈する；（うなずいて）同意を表す；いねむりする
+348,section4,accumulate,～を蓄積する、ためる
+349,section4,heap,（雑然と積まれた）山、かたまり
+350,section4,rust,さび
+351,section4,soar,舞い上がる；急上昇する
+352,section4,cultivate,～を耕作する；～を栽培［養殖］する；（才能など）をみがく；～を開墾する；（親交など）を築く；（精神・才能など）を養う
+353,section4,swell,ふくらむ、腫れる；（数量が）増加する
+354,section4,degrade,～の品位を下げる、～を降格する
+355,section4,soothe,～をなだめる；（痛みなど）を和らげる
+356,section4,accelerate,～を加速する；～を促進する
+357,section4,deteriorate,悪化する
+358,section4,nurture,～を養育する；～を育てる；～を教育する
+359,section4,renewable,更新［回復、再開］できる
+360,section4,handle,～を扱う；～を処理する；～を論じる；～に手を触れる
+361,section4,derive,～を引き出す
+362,section4,active,積極的な、能動的な；活動している、有効な
+363,section4,reach,～に着く、～に届く；～と連絡を取る
+364,section4,still,じっとしている、静かな
+365,section4,force,～に（～することを）強制する；～を強いる
+366,section4,run,競走に出る、立候補する；流れる；（～に）なる；走る；動く、作動する
+367,section4,enforce,（法律など）を施行する、～を強制する
+368,section4,bear,～を生む；～に耐える；～を持っている；～を身につける；～を運ぶ；～を支える
+369,section4,turn,回る；曲がる；向かう；（～に）なる；振り返る；変質する
+370,section4,action,行動、おこない、アクション
+371,section4,wipe,～をふく、～をぬぐう
+372,section4,withdraw,～を引っ込める、～を撤回する；（現金など）を引き出す
+373,section4,dare,あえて（～）する、～に立ち向かう、思い切って～する
+374,section4,extract,～を抜き出す、～を抜粋する
+375,section4,skip,はね回る；スキップする；拾い読みする
+376,section4,insert,挿入物、差込ページ、折り込み広告
+377,section4,deed,行為、行い
+378,section4,rear,後部、後ろ
+379,section4,interval,（時間の）間隔、周期；休止期間；（空間の）隔たり
+380,section4,lower,～を低くする；～をおろす
+381,section4,pose,ポーズをとる；ふりをする
+382,section4,creep,はう；忍び寄る
+383,section4,wither,（植物などが）しおれる；弱まる、衰える
+384,section4,leap,跳ぶ；(心が）おどる；（考えが）ひらめく
+385,section4,deficient,欠如した、不十分な、不足している
+386,section4,reinforce,～を補強する、～を強化する
+387,section4,exert,～を行使する［使う］、～を働かせる
+388,section4,scratch,～をひっかく；～を（...から）はがし取る；～を線を引いて消す
+389,section4,disguise,～を変装させる；～を隠す
+390,section4,cast,～を投げる；～に役を割りふる；～を投げかける
+391,section4,withstand,～によく耐える；～に持ちこたえる
+392,section4,undo,～をほどく ；～を元通りにする、～を取り消す
+393,section4,happen,起こる
+394,section4,aid,助け；補助器具
+395,section4,unite,～を結合する；～を団結させる、～をまとめる
+396,section4,assist,～を助ける、～を手伝う
+397,section4,arrange,～の手はずを整える；～をきちんとならべる；～を取り決める
+398,section4,arise,生じる、起こる
+399,section4,approach,～に近づく、～に接近する
+400,section4,polish,～を磨く；～を洗練する
+401,section5,occur,起こる；（考えなどが心に）浮かぶ
+402,section5,exercise,運動、練習、訓練；行使；（～s）式、儀式
+403,section5,beat,～を打つ；～を打ち負かす
+404,section5,bow,お辞儀をする
+405,section5,omit,～を除外する、～を省略する；～を（うっかり）忘れる
+406,section5,surface,表面、外観；水面；うわべ
+407,section5,site,場所、用地；遺跡
+408,section5,detach,～を切り離す、～を取り外す
+409,section5,conceal,～を隠す；～を秘密にする
+410,section5,inhabit,～に住む、～に生息している
+411,section5,possess,～を持っている；（魔物・考えなどが）～にとりつく
+412,section5,portion,一部；分け前；一人前
+413,section5,upright,まっすぐな、直立した；正しい
+414,section5,track,～の（足）跡を追う
+415,section5,trace,跡、形跡；ほんのわずかの、微量の；線、見取り図
+416,section5,sweep,～を掃く；～を押し流す；～をさっと通過する
+417,section5,commit,（罪など）を犯す；～を委託する；～を（～に）ゆだねる
+418,section5,overtake,～に追いつく、～と同じになる；～を上回る；～を不意に襲う
+419,section5,convert,～を変える；～を改宗させる
+420,section5,barren,（土地が）不毛の；内容のない；不妊の
+421,section5,rotate,回転する
+422,section5,haunt,（考えなどが）～につきまとう；（幽霊が）～に出没する；へしばしば行く
+423,section5,glue,～を（糊や接着剤で）接着する
+424,section5,bottom,底；下部；ふもと
+425,section5,part,部分、部品；役目、せりふ；分け前、分担；側、味方
+426,section5,occupy,～を占める、～を占拠する、～に（賃借で）住む
+427,section5,hide,～を隠す；～を秘密にする
+428,section5,place,～を置く；～を配置する
+429,section5,exist,存在する、ある
+430,section5,face,～に直面する、～に面する
+431,section5,focus,焦点、中心［対象］
+432,section5,store,～を蓄える
+433,section5,tie,ネクタイ(=necktie)；結び目；同点、引き分け；(～ｓ）つながり、関係
+434,section5,select,～を選び出す
+435,section5,seek,～を捜し求める；(～しようと）努める；～を求める
+436,section5,make,（～の）～になる；～を作る；～を（～の）状態にする；～に（～）させる
+437,section5,external,外部の
+438,section5,replace,～に取って代わる；～を取り替える；～を元の場所に戻す
+439,section5,mount,～を（～に）載せる［はめ込む］；（馬・自転車など）にまたがる［乗る］
+440,section5,exclude,～を排除［除外］する
+441,section5,lean,もたれる；よりかかる；傾く；頼る
+442,section5,row,（人や物の）列、並び
+443,section5,contrary,反対の；（～に）反する
+444,section5,consent,同意する
+445,section5,loyal,忠実な、誠実な、誠意のある
+446,section5,mutual,相互の；共通の
+447,section5,dominate,～を支配する
+448,section5,interact,相互に影響する、相互に意思を伝える、相互にやりとりする
+449,section5,solitary,孤独な；ひとりだけの；唯一の
+450,section5,counterpart,対応するもの；対の片方
+451,section5,cope,うまく処理する；うまく対処する
+452,section5,adhere,くっつく、粘着する；（意見、主義などに）固執する、背を向けない
+453,section5,static,静的な、元気のない
+454,section5,parallel,平行の；相当する、同様な；類似の
+455,section5,bilateral,相互の；二者［二国］間の
+456,section5,ally,同盟国；連合国
+457,section5,base,～の基礎［根拠］を置く
+458,section5,hold,～を入れている；～を開催する；～を抱く、持続する；～をとっておく
+459,section5,isolate,～を孤立させる、～を分離する、～を隔離する
+460,section5,divide,～を分割する、～を分離する、～を分ける、～を分類する
+461,section5,move,～を動かす；～を感動させる
+462,section5,point,要点；（位置、時間上の）点、瞬間；目的
+463,section5,ground,根拠、理由；土地、土壌、運動場、地面、地表
+464,section5,escape,逃げる
+465,section5,flight,（飛行機の）便、飛ぶこと、飛行；逃走、脱出
+466,section5,quarter,４分の１；15分；25セント；四半期；（４学期制の）学期；方角、場所
+467,section5,neighbor,近所の人、隣人、隣国（の人）；仲間
+468,section5,position,位置、場所；立場、形勢；地位、身分；姿勢；勤め口、職
+469,section5,besides,その上；さらに
+470,section5,remain,～のままである、～のままでいる；残る、とどまる
+471,section5,back,背中；後部
+472,section5,follow,～について行く；（忠告など）に従う、～を理解する
+473,section5,stick,～をくっつける；～を突き刺す
+474,section5,separate,～を引き離す；～に分ける
+475,section5,join,～に加わる；～をつなぐ；～に参加する
+476,section5,surround,～を取り囲む、～を取り巻く
+477,section5,enter,（場所）に入る、～を記入する；（活動など）に加わる
+478,section5,scatter,～をまき散らす；～を追い散らす
+479,section5,close,接近した；親密な；綿密な= careful
+480,section5,situation,位置；立場、状態；きわどい場面
+481,section5,spread,～を広げる；～を薄く塗る
+482,section5,lead,～を（～に）導く；（生活）を送る;～の先を行く；～を指揮する
+483,section5,direction,方向、指導
+484,section5,float,浮かぶ
+485,section5,narrow,（幅の）狭い；限られた；かろうじての
+486,section5,associate,～を連想する
+487,section5,react,反応する、作用する；反抗する
+488,section5,influence,影響、影響力
+489,section5,quarrel,口論；反目、不和
+490,section5,cover,～を含む；（ある距離）を行く；～を覆う；～を隠す；～（範囲）に及ぶ；～を扱う
+491,section5,resemble,～に似ている
+492,section5,affair,出来事；問題；仕事；（～s）事情
+493,section5,basis,基礎
+494,section5,support,～を支える；～を支持する;～を扶養する；～を裏付ける
+495,section5,room,（不可算扱い）空間、場所、可能性、余地、余裕；（可算扱い）部屋；（the～；集合的に）部屋にいる人々
+496,section5,delight,喜び、楽しみ
+497,section5,desire,要求、願望
+498,section5,satisfy,～を満足させる；（義務)を果たす；（基準など）に合致する；～にこたえる
+499,section5,fun,楽しいこと、愉快なこと［気分］、戯れ
+500,section5,indifferent,無関心な；どうでもよい；公平な
+501,section6,intend,～を意図する、～するつもりである
+502,section6,long,熱望する；思い焦がれる
+503,section6,mean,～を意味する；～を（～の）つもりで言う；～にとって重要性を持つ
+504,section6,mind,～を気にする；～を嫌がる；～の世話をする
+505,section6,familiar,よく知られている、なじみのある；精通している；ありふれた；親しい
+506,section6,shame,恥、恥ずかしさ；残念なこと
+507,section6,belong,所属する；（あるべきところに）ある
+508,section6,direct,～に道を教える、～を向ける、～に指図（指示）する
+509,section6,despise,～を軽蔑する、～をひどくきらう
+510,section6,boast,自慢する
+511,section6,stand,～を我慢する；～を立てる
+512,section6,complain,不平を言う
+513,section6,amaze,～をびっくりさせる、～を驚かす
+514,section6,ambitious,大望を抱いた；熱望している；野心的な
+515,section6,terrible,猛烈な、ひどい；恐ろしい；ひどく悪い
+516,section6,affect,～に影響を与える；～のふりをする；～を愛用する、～を好んで身につける；[通常受け身] ～の心を動かす
+517,section6,communicate,（意見・情報など）を伝える
+518,section6,cross,～を線を引いて消す；～を横切る；～と交差する
+519,section6,depend,頼る、依存する；左右される、（～によって）決まる
+520,section6,control,制御、抑制；支配、管理
+521,section6,companion,仲間；友達
+522,section6,avoid,～を避ける
+523,section6,attend,～に出席する、～に通う；～を世話する
+524,section6,argue,議論する；口論する、言い争う
+525,section6,appointment,任命；約束；職、任務
+526,section6,acquaintance,知人、知り合い；面識；知識；交際
+527,section6,accustomed,慣れる
+528,section6,accompany,～と一緒に行く；～に付随して生じる
+529,section6,free,無料の；自由な、ひまな；制約のない
+530,section6,serve,（目的・必要）にかなう；～に仕える；～に供給する；（食事など）を出す
+531,section6,treat,～を扱う；～を治療する；～におごる；～を（...と）みなす
+532,section6,submit,服従する
+533,section6,rely,（～に）頼る、（～を）あてにする
+534,section6,regard,～を（...と）みなす；～を評価する
+535,section6,disregard,～を無視する
+536,section6,meet,～を満たす；～にかなう；～と交差する；～と会う
+537,section6,introduce,～を紹介する；～を導入する
+538,section6,independent,独立した、関係がない、自立した
+539,section6,impact,衝撃、衝突；影響（力）
+540,section6,consensus,（意見の）一致；全体の意見の一致
+541,section6,cooperate,協力［協同］する
+542,section6,fascinate,～を魅惑する、～をうっとりさせる
+543,section6,involve,～を巻き込む、～を没頭させる、～が当然要求される、～を複雑にする、～を含む、～を意味する
+544,section6,cling,執着する；くっつく；しがみつく
+545,section6,remote,遠い；へんぴな；（時間が）遠く隔たった；かすかな
+546,section6,pierce,～を貫く、～を刺す；～の身にしみる、～を感動させる
+547,section6,equip,～に備え付ける、～に装備する；～に身につけさせる
+548,section6,enclose,～を囲う；～を同封する
+549,section6,vertical,垂直の；縦の
+550,section6,retain,～を保持する、～を維持する
+551,section6,debate,～を討論する、～を熟慮する
+552,section6,scream,金切り声を出す、叫ぶ、悲鳴をあげる
+553,section6,counsel,～に忠告する、（人）に～（するよう）勧める
+554,section6,sigh,ため息
+555,section6,review,再考；復習；論評、評判；報告、説明；回顧
+556,section6,entertain,～を楽しませる、～をもてなす；（申し出など）を考慮する、（疑念、考えなど）を心に抱く
+557,section6,whisper,～と小声で言う；～をこっそり言いふらす
+558,section6,survey,～を概観する、～を調査する、～を見渡す
+559,section6,narrate,～を（順序立てて）物語る、～を述べる
+560,section6,reply,返事をする；応じる
+561,section6,convey,～を運ぶ；（思想など）を伝える
+562,section6,inquire,～を尋ねる
+563,section6,interpret,～を解釈する、～を通訳する
+564,section6,consult,相談する；（対等関係で）協議する
+565,section6,excuse,～を許す；～の言い訳をする
+566,section6,comment,論評；解説；うわさ話
+567,section6,chat,おしゃべり
+568,section6,persuade,～を説得する；～を説得して...をさせる；～を...だと確信させる
+569,section6,bound,縛られた；きっと；確かに
+570,section6,neutral,中立の、中性の；はっきりしない、くすんだ
+571,section6,conform,従う、適合する、（基準を）満たす
+572,section6,combine,～を結合させる
+573,section6,discourage,～を落胆させる、～をがっかりさせる；～に思いとどまらせる
+574,section6,conceive,～を心に抱く；（～である）と考える
+575,section6,condemn,～を非難する；～に有罪判決を下す
+576,section6,reluctant,気が進まない；しぶしぶの
+577,section6,disgust,嫌悪
+578,section6,frustration,挫折；フラストレーション、欲求不満
+579,section6,sensation,大評判、物議；感覚
+580,section6,emotion,感情、感動
+581,section6,apathy,無感動、無関心；冷淡
+582,section6,antipathy,反感；嫌悪（感）
+583,section6,sympathy,同情、思いやり；共感、支援
+584,section6,participate,参加する；関わる；加わる
+585,section6,obey,～に従う、（規則など）を守る
+586,section6,relative,相対的な；比較上の；～に関連した、適切な；相互の
+587,section6,relate,～を関連づける；～を物語る
+588,section6,patriotic,愛国的な
+589,section6,share,～を共有する；～を分ける；～を（人に）話す
+590,section6,spare,～をなしですませる；～を取っておく；～を節約する；～をさく
+591,section6,tune,曲；調和、一致；気分、機嫌
+592,section6,alert,注意/警戒を怠らない；機敏な、敏捷（びんしょう）な
+593,section6,wonder,～かなと思う；～ということに驚く
+594,section6,endure,～に耐える、～を我慢する
+595,section6,relief,（苦痛などからの）解放；（苦痛などの後の）安堵；救援（物資）
+596,section6,passion,情熱、熱中、激情、愛情
+597,section6,impress,～に強い印象を与える；～を感動させる
+598,section6,tiresome,退屈な；骨の折れる、厄介な
+599,section6,tease,～をからかう、～をいじめる；～をじらす
+600,section6,tremble,震える；心配する
+601,section7,uneasy,不安な、落ち着かない
+602,section7,startle,～をびっくりさせる、～を飛び上がらせる
+603,section7,desperate,自暴自棄の、絶望的な；欲しくてたまらない、（～したくて）たまらない
+604,section7,sentiment,感傷；心情；意見
+605,section7,attitude,姿勢；態度；意見、考え方
+606,section7,confidence,信頼；自信、確信；秘密
+607,section7,smart,頭が良い；身なりがきちんとした
+608,section7,talkative,おしゃべりな、話好きな
+609,section7,vigorous,元気な；力強い、激しい
+610,section7,enthusiastic,熱狂的な、熱心な
+611,section7,liberal,自由主義の；気前のよい；寛大な
+612,section7,weep,すすり泣く、しくしく泣く；嘆く
+613,section7,upset,～の心を乱す；～の調子を狂わせる；～をひっくり返す；～をだめにする
+614,section7,despair,絶望
+615,section7,concentrate,～を集中する；～を（...に）集中させる
+616,section7,chart,図表；図
+617,section7,assimilate,～を同化する；～を吸収する；～を自分のものにする
+618,section7,assemble,～を集める；～を組み立てる
+619,section7,embrace,～を抱きしめる；～を含む；～に応じる
+620,section7,devoid,欠けた
+621,section7,reverse,逆の；裏の
+622,section7,pledge,～を誓う
+623,section7,plead,嘆願する; 申し立てる
+624,section7,oral,口頭の、口述の；口の
+625,section7,confess,～を告白する
+626,section7,colloquial,口語の
+627,section7,swear,～を誓う；～だと断言する
+628,section7,slang,俗語
+629,section7,roar,吠える、わめく；とどろく、鳴り響く；大笑いする
+630,section7,dialog,対話、会話
+631,section7,dialect,方言、地方語
+632,section7,chuckle,くすくす笑う
+633,section7,assert,～を断言する；（～である）と主張する；～を行使する
+634,section7,thrust,～を突き刺す；～を押し付ける；～を突き出す
+635,section7,bondage,（行動の自由の）束縛；捕らわれの身
+636,section7,scope,範囲；余地、自由
+637,section7,dictate,（文書など）を［...に］書きとらせる；～を命令する
+638,section7,yell,大声を出す、叫ぶ；エールを送る
+639,section7,render,～を（...に）する；（...に）～を与える；～を表現する
+640,section7,testify,～を証言する
+641,section7,recite,～を（聴衆の前で）朗読する、～を暗唱する；～を詳細に話す
+642,section7,verse,韻文；詩（の一行）；聖書の節（章を細分化した単位）
+643,section7,premise,前提、仮定
+644,section7,preface,序文；前置き
+645,section7,eloquent,雄弁な、説得力のある
+646,section7,locate,～の所在地を見つける；～の場所を定める
+647,section7,mingle,～を混ぜる
+648,section7,outer,外の～；客観的な
+649,section7,penetrate,～を貫く；～にしみ込む、広がる；～を見抜く、理解する；～に入り込む
+650,section7,underlie,～の下にある；～の基礎となる、～の背後にある
+651,section7,sore,痛い；悲しんだ、怒った
+652,section7,plunge,～を突っ込む；～を（・・・に）追い込む、陥れる
+653,section7,yearn,あこがれる；切望する；同情する
+654,section7,lament,～を嘆き悲しむ
+655,section7,depress,～を落胆させる；～を押し下げる；～を憂鬱にさせる
+656,section7,resent,～に憤慨する；～をひどく嫌う
+657,section7,deplore,～を嘆く
+658,section7,shudder,身震いする、ぞっとする
+659,section7,zeal,熱意、熱中
+660,section7,outrage,暴力; 激怒
+661,section7,whim,気まぐれの思いつき、でき心
+662,section7,staff,杖、棒；（集合的に）社員、職員、スタッフ
+663,section7,relevant,関連がある；適切な
+664,section7,emancipate,～を解放する
+665,section7,queue,列
+666,section7,indulge,～を甘やかす、～を満足させる、～にどんどん与える、～にふける
+667,section7,shed,（涙・血など）を流す；（葉など）を落とす；（光など）を投げかける
+668,section7,scared,おびえた；びっくりした
+669,section7,blush,（恥ずかしさなどで）顔を赤らめる
+670,section7,patron,（芸術などの）後援者；パトロン；常連客
+671,section7,obsess,（考えなどが）～にとりつく
+672,section7,proclaim,～を宣言する；～を（...だとはっきり）示す
+673,section7,satire,風刺、皮肉
+674,section7,mutter,つぶやく；ぶつぶつ不平を言う
+675,section7,denote,～を意味する
+676,section7,caricature,風刺画［文］；戯画；下手なまねごと
+677,section7,hemisphere,半球
+678,section7,subordinate,下位の；補助的な；従属する
+679,section7,frown,しかめ面をする、眉をひそめる
+680,section7,irony,皮肉、予想に反する結末
+681,section7,melancholy,憂うつ；哀愁
+682,section7,layer,（積み重ねたものの）層；地層
+683,section7,specimen,見本、標本
+684,section7,haughty,高慢な
+685,section7,impudent,ずうずうしい
+686,section7,pretend,～のふりをする、（～ということ）を装う
+687,section7,temperament,気質、気性
+688,section7,ancestor,先祖、祖先
+689,section7,territory,領土、領域
+690,section7,pity,哀れみ 、同情；残念なこと、遺憾なこと
+691,section7,temper,気質、気分；かんしゃく；平静な気分、落ち着き
+692,section7,blame,～を非難する；～に責任を負わせる；～を責める；～を（...の）せいにする
+693,section7,anxious,心配して；切望して
+694,section7,regret,～を後悔する、～を残念に思う
+695,section7,ashamed,恥ずかしがって、恥じている
+696,section7,touch,～を感動させる；～に触れる；～を扱う；～に影響を与える
+697,section7,ardent,激しい；熱心な
+698,section7,coward,臆病者
+699,section7,humble,謙遜した；卑しい；質素な
+700,section7,modest,謙虚な；（要求などが）控えめな；質素な、まあまあの
+701,section8,pacific,（the P～）太平洋
+702,section8,stubborn,頑固な；（行動が）断固とした、不屈の
+703,section8,identify,～が誰［何］であるかが分かる、～を同一のものとみなす；～を特定のもの［人］と確認する
+704,section8,feature,特徴、特色；顔立ち；目玉商品
+705,section8,wise,賢い、分別のある
+706,section8,clever,賢い；利口な；うまい；巧妙な
+707,section8,addict,中毒患者、（麻薬などの）常用者；愛好者
+708,section8,courteous,礼儀正しい
+709,section8,innate,生まれつきの
+710,section8,naughty,（子供が）いたずらな、わんぱくな；邪悪な
+711,section8,brutal,野蛮な；残酷な；残忍な；理性のない
+712,section8,conceit,うぬぼれ
+713,section8,discreet,思慮分別のある；目立たない
+714,section8,integrity,高潔さ、誠実さ；統一された状態
+715,section8,naive,世間知らずの；うぶな；単純な、だまされやすい
+716,section8,amiable,愛想のよい
+717,section8,temperate,節度のある、温和な
+718,section8,shrewd,抜け目のない；（洞察などが）鋭い
+719,section8,diligent,勤勉な
+720,section8,unique,唯一の、特有の；類のない
+721,section8,gentle,（性質などが）優しい、穏やかな
+722,section8,habit,習慣、癖
+723,section8,will,意志；遺書
+724,section8,idle,仕事をしていない、怠惰な
+725,section8,innocent,無邪気な；無罪の；悪気のない
+726,section8,lazy,怠惰な；無精な
+727,section8,willing,喜んで～する、快く～する；～するのをいとわない
+728,section8,patient,忍耐強い；我慢強い
+729,section8,wisdom,知恵、賢さ；金言、名言；学問、博識
+730,section8,nature,性質、本性；自然；種類
+731,section8,stupid,愚かな、ばかな、ばかげた
+732,section8,noble,気高い、高潔な；貴族の、高貴な
+733,section8,sincere,誠実な、心からの
+734,section8,nervous,神経の；神経質な、臆病な、あがった、緊張した
+735,section8,dumb,口がきけない ；おろかな
+736,section8,aggressive,攻撃的な、けんか腰の；積極的な
+737,section8,timid,臆病な、内気な
+738,section8,trait,特色；～気味
+739,section8,shortcoming,（～sで）欠点、短所
+740,section8,vanity,虚栄心、うぬぼれ
+741,section8,indignant,憤慨した
+742,section8,bewilder,～を当惑させる；～をうろたえさせる
+743,section8,rage,激怒；熱望；流行のもの
+744,section8,mourn,（死や不幸を）悲しむ、嘆く
+745,section8,fury,激しい怒り；（風雨などの）激しさ
+746,section8,astonish,～を驚かす
+747,section8,astound,～をびっくり仰天させる
+748,section8,aspire,（～することを）切望する；熱望する、求める
+749,section8,apprehension,気がかり、心配；理解
+750,section8,mischievous,いたずらな；有害な
+751,section8,arrogant,横柄な、尊大な、傲慢な
+752,section8,courage,勇気
+753,section8,shy,内気な、恥ずかしがりの
+754,section8,personality,個性、性格、人格；独特の雰囲気；有名人
+755,section8,serious,本気の、まじめな；重大な、深刻な
+756,section8,character,性格、個性、特徴；登場人物；人格；文字
+757,section8,polite,礼儀正しい、丁寧な；上品な、上流の
+758,section8,selfish,利己的な、わがままな、自分勝手な
+759,section8,proud,誇りを持って；（～を）誇って；（～を）自慢して
+760,section8,sound,（～に）思われる；（～に）聞こえる；（鐘などが）鳴る
+761,section8,general,世間一般の、一般的な；全体的な；大まかな
+762,section8,intense,強烈な、非常に強い、激しい
+763,section8,quantity,量
+764,section8,enormous,（形・程度などが）巨大な、莫大な
+765,section8,multitude,多数；（the～（s）で）大衆
+766,section8,expand,～を広げる、～を膨張させる
+767,section8,abound,豊富である；（場所などが）いっぱいである、（～で）満ちている
+768,section8,ample,たっぷりある、広大な
+769,section8,approximate,おおよその、近似の
+770,section8,score,得点；成績；20
+771,section8,supreme,（地位・性質などが）最高の；この上ない、究極の
+772,section8,trivial,ささいな、取るに足りない、ありふれた
+773,section8,acute,鋭い；深刻な；（痛みなどが）激しい；急性の
+774,section8,network,網状のもの；張り巡らされたもの；放送網；ネットワーク
+775,section8,feudal,封建制の
+776,section8,attorney,弁護士
+777,section8,board,板；会議；委員会；重役
+778,section8,candidate,候補者；志願者；立候補者
+779,section8,trial,試み、試験；裁判；試練、苦労
+780,section8,strategy,戦略、計画、方策
+781,section8,parliament,議会、国会；（P～で）英国議会
+782,section8,layman,（専門家に対して）しろうと；（聖職者に対して）平信徒
+783,section8,treaty,条約；交渉、約束
+784,section8,arm,腕；（～ｓで）武器
+785,section8,branch,（一般に）枝；支店；部門 =division、 section
+786,section8,elect,～を選ぶ、～を選挙で選ぶ
+787,section8,function,機能、役割、働き；（公式な）式典、会合
+788,section8,govern,～を治める；～を支配する；～を左右する；～を抑制する
+789,section8,jail,刑務所；留置場；拘置所
+790,section8,official,公の、公式の；公務（上）の、お役所風の
+791,section8,personnel,（集合的に）社員；人事部
+792,section8,power,力、能力；権力；強国；（電気などの）エネルギー；体力、知力、精神力
+793,section8,social,社交的な；社会の、社会に関する、社会的な、社会生活を営む
+794,section8,word,短い会話；約束；単語、言葉；知らせ、消息
+795,section8,empire,帝国；大企業
+796,section8,institution,施設；（公共）機関、団体；制度、慣習
+797,section8,legal,合法的な；法律の；法的な
+798,section8,penalty,罰金；刑罰
+799,section8,revolution,革命、（思想などの）大変革；回転
+800,section8,royal,王室の、王の；王立の；風格のある
+801,section9,spectator,観客、見物人
+802,section9,statistics,［複数扱い］統計（の数字）；［単数扱い］統計学
+803,section9,system,装置、システム；制度、組織；体系；方法、学説、手順；体
+804,section9,troop,（移動する）群れ、一団；（～ｓ）軍隊、騎兵隊
+805,section9,vote,投票、票；選挙権；決議、決定
+806,section9,specialize,専門にする、専攻する
+807,section9,anarchy,無秩序
+808,section9,diversity,相違、多様性
+809,section9,bribe,賄賂
+810,section9,bureaucrat,官僚
+811,section9,census,国勢［ 市勢］ 調査；（主に人口の）一斉調査
+812,section9,committee,委員会
+813,section9,conservative,保守的な、控えめな
+814,section9,despotic,専制的な
+815,section9,superpower,超大国；強大な力
+816,section9,accordingly,それに応じて、それ相応に；したがって
+817,section9,factor,要因、要素
+818,section9,explain,～を説明する
+819,section9,define,～を定義する、～を明確に定める
+820,section9,convince,～を納得させる；～を確信させる
+821,section9,logical,論理的な、筋が通った；論理学（上）の
+822,section9,result,結果、（試験などの）成績
+823,section9,prove,～を証明する；～を試す
+824,section9,nevertheless,それにもかかわらず、それでもやはり
+825,section9,actually,実際に、（意外だが）実は、本当は
+826,section9,analysis,分析；解明
+827,section9,prestige,名声；威信
+828,section9,order,順序、等級；秩序、治安；命令；注文（品）；整理；正常、順調
+829,section9,lawyer,弁護士
+830,section9,investigate,～を調査する
+831,section9,infer,～を推論する
+832,section9,consequence,結果；重要性
+833,section9,conclude,（～である）と結論を下す；～を終える；～（発言など）を締めくくる；～（契約など）を締結する
+834,section9,inspect,～を検査する；～を調査する
+835,section9,eventually,結局は、ついに
+836,section9,examine,～を調べる；～に試験をする
+837,section9,bunch,束；集団、群れ
+838,section9,chairperson,議長；（会社などの）会長
+839,section9,snob,俗物；上流気取りの嫌な人
+840,section9,colleague,（仕事の）同僚
+841,section9,reign,統治、支配；君臨、治世
+842,section9,warfare,戦争状態、武力衝突；闘争
+843,section9,senator,上院議員
+844,section9,communist,共産主義者
+845,section9,summon,～を呼び出す、～を召集する
+846,section9,lure,魅力；おとり
+847,section9,welfare,幸福、繁栄、福祉；生活保護
+848,section9,crime,（刑法上の）犯罪
+849,section9,prison,刑務所；拘置所
+850,section9,famous,有名な
+851,section9,public,公の；公開の；公的な
+852,section9,state,状態；国家、州；威厳；地位、身分
+853,section9,political,政治の、政治的な、政治に関する
+854,section9,work,（不可算）仕事、労働；勉強、研究；職業、職場；（可算。通常～s）作品
+855,section9,agree,同意する、意見が一致する、賛成する；体質に合う
+856,section9,cause,原因；主義主張；理由；大義名分、目的
+857,section9,insist,～と主張する、～と言い張る；～を要求する
+858,section9,congress,（C～）（米国の）議会；国会；大会
+859,section9,illegal,不法な、違法な
+860,section9,statesman,政治家
+861,section9,nursery,託児所、保育園、子供部屋；園芸店、養殖場
+862,section9,prejudice,偏見；先入観
+863,section9,substitute,～を代わりに用いる、～を代用する
+864,section9,vocation,職業、天職；召命
+865,section9,facility,施設、設備；容易さ；才能
+866,section9,authority,権威、（...する）権限；権威者；当局；大家
+867,section9,diplomacy,外交；駆け引き
+868,section9,expert,専門家、熟達者
+869,section9,notwithstanding,それにもかかわらず
+870,section9,deduce,～を演えきする、（推理により結論）に達する
+871,section9,paradox,逆説；パラドックス；矛盾；矛盾しているようにみえること
+872,section9,criterion,（判断の）基準
+873,section9,administration,管理、経営、運営；行政、政府、政権
+874,section9,cabinet,（通例、the C～）内閣；飾り戸棚、キャビネット
+875,section9,dictator,独裁者
+876,section9,riot,暴動
+877,section9,sovereign,君主、主権者
+878,section9,municipal,地方自治体の；市町（営）の
+879,section9,baggage,手荷物；旅行荷物；（集合的に）（旅行時の）荷物
+880,section9,strength,力、強さ（のもと）
+881,section9,bomb,爆弾；大失敗
+882,section9,instrument,道具、器具；楽器
+883,section9,business,（自分自身に関する）事柄、こと；商売、事業；仕事、業務
+884,section9,case,実情；場合；事例；症例；症状；事件；事実；訴訟；容器
+885,section9,diet,（減量のための）食事制限、日常の食事；（the D～）国会
+886,section9,instance,例、実例；場合
+887,section9,line,職業；方針；短い手紙；線；列；（文の）行
+888,section9,VCR,ビデオデッキ（video cassete recorder の略）
+889,section9,shelf,棚
+890,section9,adequate,十分な、（ある目的のために）適切な
+891,section9,appropriate,適切な、ふさわしい
+892,section9,dense,（人が）密集した、密度の高い；濃い
+893,section9,drastic,徹底的な、思い切った、猛烈な、抜本的な
+894,section9,extravagant,仰々しい；金遣いの荒い、ぜいたくな
+895,section9,fertile,肥沃な；創造力豊かな；（動植物が）生殖力のある、多産な
+896,section9,flat,単調な；そっけない；平らな；断固とした；均一の
+897,section9,infinite,無限の
+898,section9,thorough,徹底的な、完全な；全くの；几帳面な
+899,section9,terrific,すばらしい；（量・程度が）ものすごい；恐ろしい
+900,section9,painstaking,骨の折れる、つらい；念入りな、丹精こめた
+901,section10,pulse,脈拍
+902,section10,cosmos,（the～で）宇宙；秩序；（植物）コスモス
+903,section10,muddy,泥の；濁った
+904,section10,particle,粒子；小さな粒
+905,section10,volcano,火山
+906,section10,thread,糸；（話などの）筋、続き
+907,section10,scissors,はさみ
+908,section10,apparatus,装置、器具
+909,section10,undue,過度の；不当な；支払期限が来ていない
+910,section10,proficient,熟達した、堪能な
+911,section10,dessert,（食後の）デザート
+912,section10,contain,～を中に入れている、～を収容する；～を抑える
+913,section10,feed,～にえさ［食べ物］を与える
+914,section10,incident,出来事、事件
+915,section10,bough,大枝.
+916,section10,material,材料、原料、資料、生地
+917,section10,matter,物質、物体；問題、事；困難；事情；重大さ
+918,section10,rate,割合、速度；料金
+919,section10,well-known,よく知られている
+920,section10,very,まさにその［この］、全くの
+921,section10,unit,単位
+922,section10,tough,かたい；丈夫な；難しい、困難な；不幸な
+923,section10,urge,～を駆り立てる ～に（・・・するよう）説得する ～を推進する、 衝動 欲求
+924,section10,press,～を押す ～を押し付ける ～に強く求める ～にアイロンをかける、 新聞 出版 押す事 アイロンがけをすること (the～)報道陣 報道機関
+925,section10,pressing,差し迫った
+926,section10,oblige,～に・・・をさせる ～に親切にする ～に恩恵を与える
+927,section10,incline,～を傾ける ～を（・・・する）気にさせる、 （心、ものが）傾く 傾斜する
+928,section10,compulsory,強制的な 義務的な 必修の
+929,section10,compel,～に（・・・することを）強制する ～を強いる
+930,section10,command,～に(・・・するよう）命令する ～を指揮する ～を支配する （景色など）を見渡す （同情、尊敬、指示など）を集める、 命令 支配 （言葉を）自由に操る力
+931,section10,claim,～を要求する （～である）と主張する （事故などが人名）を奪う、 （当然の権利としての）要求 （主張する）権利 主張
+932,section10,count,重要である
+933,section10,gross,総計の；大きな；ひどい
+934,section10,miniature,小模型、ミニチュア
+935,section10,sheer,まったくの；透き通った、薄い；切り立った
+936,section10,thermometer,温度計
+937,section10,stem,茎、幹；語幹
+938,section10,hydrogen,水素
+939,section10,oxygen,酸素
+940,section10,hygiene,衛生（学）
+941,section10,molecule,分子；微量
+942,section10,ozone,オゾン
+943,section10,abundant,豊富な；豊かな
+944,section10,badly,ひどく；とても；下手に；悪く
+945,section10,fast,（時計が）進んでいる；速い；しっかり固定した
+946,section10,empty,からの、人のいない、空いている、何もない
+947,section10,height,高さ、身長；高地；絶頂；丘、高台
+948,section10,range,範囲、幅；連なり
+949,section10,nearly,ほとんど；すんでのところで
+950,section10,accuse,～を訴える、～を非難する、～を責める
+951,section10,duty,義務、任務；責任；税、関税
+952,section10,contract,契約；契約書.
+953,section10,conference,会議；協議；協議会
+954,section10,editor,編集者
+955,section10,fabric,織物 布地 構造 骨組み
+956,section10,grain,穀物 穀粒 少量 微量 木目
+957,section10,mineral,鉱物 ミネラル、 鉱物を含んだ 鉱物の
+958,section10,profession,専門職 公言
+959,section10,professor,教授
+960,section10,project,企画 計画 事業 学習課題、 ～を計画する ～を映し出す ～を見積もる
+961,section10,sow,（種）をまく
+962,section10,trade,貿易 職業 商売、 貿易する 売買する、 ～を交換する ～を売買する
+963,section10,seemingly,うわべは 見たところは
+964,section10,utmost,最大の 最高の、 最大限
+965,section10,cough,咳をする
+966,section10,sneeze,くしゃみ
+967,section10,digest,～を消化する
+968,section10,dizzy,目まいがする、ふらふらする
+969,section10,heredity,遺伝
+970,section10,scar,傷跡、（けが等の）跡
+971,section10,surgeon,外科医
+972,section10,therapy,（薬や外科手術などを使わない）治療（法）
+973,section10,bishop,主教；司教
+974,section10,priest,司祭；聖職者
+975,section10,maternal,母の；母らしい
+976,section10,regular,定期的な、規則的な；一定の、いつもの；正規の
+977,section10,annual,年一回の、毎年の
+978,section10,ancient,古代の、昔の；昔からの；（物などが）とても古い
+979,section10,antique,骨董品の、年代物の；古風な
+980,section10,constant,絶え間のない；一定不変の
+981,section10,decade,10年間
+982,section10,immediate,即座の；すぐ隣の、近い；直接の
+983,section10,lately,最近.
+984,section10,recent,最近の；ごく新しい
+985,section10,last,最後の；この前の；最も（～）しそうにない
+986,section10,repeat,～を繰り返す；～を復唱する；～を口外する
+987,section10,constitute,～を構成する ～を制定する ～の構成要素である
+988,section10,decay,腐る 衰える、 腐敗 衰退
+989,section10,embody,（思想など）を具体化する
+990,section10,explode,爆発する ～を爆発させる
+991,section10,frame,校正 骨組み 骨格 枠 額縁、 ～を組み立てる ～を枠にはめる
+992,section10,pillar,柱 要所 中心的存在
+993,section10,gigantic,巨大な 莫大な
+994,section10,resolve,～を決心する ～を解決する ～を分析する、 決定する 決心する （・・・に）分解する
+995,section10,sew,～を縫う
+996,section10,stir,～をかき混ぜる ～をかき回す ～を奮起させる～を扇動させる
+997,section10,extraordinary,並外れた 普通ではない
+998,section10,mammal,哺乳動物；哺乳類
+999,section10,nourish,～を養う、～を育てる
+1000,section10,organ,（体の）器官；（政府などの）機関、組織；オルガン
+1001,section11,organism,有機体；生物；組織体
+1002,section11,disable,～の能力を奪う
+1003,section11,heal,（傷など）を治す
+1004,section11,slender,細長い、弱い、わずかな
+1005,section11,weary,疲れた；あきあきした
+1006,section11,ethnic,民族の、民族特有の
+1007,section11,restructure,～を再構築［再構成］する；～を再検討する
+1008,section11,ladder,はしご；出世への手段や道
+1009,section11,tongue,言語、言葉；舌；話しぶり
+1010,section11,throat,喉
+1011,section11,sight,視界；光景；見ること
+1012,section11,physical,身体の、肉体の；物質の、物理（学）の
+1013,section11,hand,筆跡；援助の手、人手；手；（時計などの）針
+1014,section11,female,女性の、雌の.
+1015,section11,male,男性の；雄の
+1016,section11,visible,目に見える
+1017,section11,vision,視力、視覚；洞察力；先見性、将来を見通す能力；幻、未来図
+1018,section11,blood,血；血統；血筋
+1019,section11,head,向かう、進む
+1020,section11,conventional,従来の；慣習的な；協定の
+1021,section11,agent,代理人 代理店 行為者
+1022,section11,sentence,～に判決を宣言する ～を刑に処す、 文 判決
+1023,section11,somewhat,いくらか
+1024,section11,flock,群れ、 群がる 集まる
+1025,section11,department,部門 課 局 売場 （米国政府の）省 学科
+1026,section11,pile,積み重ね 山 たくさん、 ～を積み重ねる ～を（・・・に）積む、 積みかさなる 殺到する
+1027,section11,subtle,微妙な かすかな 巧妙な 難解な 複雑な」鋭敏な
+1028,section11,steep,（坂などが）急な 険しい （値段が）法外
+1029,section11,scale,規模 段階 等級 縮尺 うろこ はかり、 ～を登る ～を（はかり・天秤で）はかる
+1030,section11,decent,まともな まあまあの 慎みのある かなりよい きちんとした
+1031,section11,drain,～の排水をする、～をからにする；～を消耗させる
+1032,section11,foster,～を育成する；（実子でない子供）を養育する；（希望など）を抱く
+1033,section11,needle,針、とがったもの
+1034,section11,manual,手動の、手の；（作業などが）人力を要する
+1035,section11,monopoly,独占、専売（権）；独占企業、専売会社
+1036,section11,organize,～を組織する；～体系づける；～を準備する；～を整える
+1037,section11,commodity,産物、商品、日用品
+1038,section11,blueprint,青写真［計画の具体的な進め方を説明するもの］、詳細な計画
+1039,section11,exquisite,この上なく優れた、たいへんすばらしい
+1040,section11,pathetic,哀れな；救いようのない
+1041,section11,age,年齢；老齢；時代；長い間
+1042,section11,infant,幼児、初心者
+1043,section11,childhood,少年［少女］時代；子供時代.
+1044,section11,youth,青春時代；若い人；若々しさ、未熟さ
+1045,section11,adopt,（方法など）を採用する；～を養子にする
+1046,section11,awake,～を眠りから覚ます
+1047,section11,challenge,やりがい（のある仕事）；課題；挑戦
+1048,section11,routine,決まり切った仕事、日課；いつもの手順
+1049,section11,chance,機会；可能性；見込み；偶然；（～s）形勢
+1050,section11,ceremony,儀式；式典；儀礼
+1051,section11,live,生きている；（演奏などが）生の；元気な、活気のある
+1052,section11,life,生物；生命；一生、人生；元気、活気；実物、本物
+1053,section11,spectacle,壮観 見もの 惨状 (～s)眼鏡
+1054,section11,athlete,運動選手 競技者 スポーツ選手
+1055,section11,race,人種 民族 人類 レース 競争 急ぐこと、 競争する 大急ぎでやる
+1056,section11,household,家族（全体） 世帯 家庭、 家庭の 家族の 家事の
+1057,section11,career,経歴 （一生続ける）職業 生涯 成功 出世
+1058,section11,offspring,子孫 成果 結果
+1059,section11,well-being,幸福 健康 福利
+1060,section11,funeral,葬式 葬儀
+1061,section11,elderly,初老の、 年配の
+1062,section11,perfume,香水；（快い）香り
+1063,section11,scent,（快い）香り；手掛かり
+1064,section11,stain,汚れ、しみ
+1065,section11,vogue,流行、人気
+1066,section11,fantasy,空想、幻想
+1067,section11,fancy,空想、（根拠のない）考え；好み；思いつき
+1068,section11,stimulate,～を刺激する；～を元気づける
+1069,section11,tempt,～を誘惑する、～を（...する）気にさせる；（神など）を怒らす
+1070,section11,illusion,錯覚、幻想、幻覚
+1071,section11,autograph,（有名人などの）サイン
+1072,section11,donation,寄付、寄贈
+1073,section11,geography,地理学；地形、地理
+1074,section11,continent,大陸；本土
+1075,section11,distant,遠い、距離のある；（関係が）冷ややかな
+1076,section11,globe,球体、世界、地球儀；（the～で）地球
+1077,section11,landscape,（陸地の）景色、風景、眺め
+1078,section11,summit,頂上、頂点；首脳会議、首脳
+1079,section11,moral,道徳上の；道徳的な、倫理的な、教訓的な
+1080,section11,promise,～を約束する；～の見込みがある
+1081,section11,truth,真実、事実；真理；誠実
+1082,section11,trust,～を信頼する、～を信用する；～に委託する
+1083,section11,responsible,責任がある、信頼できる;（～の）原因である
+1084,section11,border,境界（線） 国境 縁、 ～に接する ～に縁を付ける
+1085,section11,boundary,境界 限界
+1086,section11,colony,植民地 居留地 集落
+1087,section11,frontier,辺境 国境 先端（地） 最前線
+1088,section11,internal,内部の 国内の、 本質の (～s)内臓
+1089,section11,marine,海の 海に住む 海事の 海軍の、 海兵隊 海兵隊
+1090,section11,meadow,牧草地 草地
+1091,section11,path,小道 歩道 方針 生き方 進路
+1092,section11,peninsula,半島
+1093,section11,vacuum,真空（状態） 空虚 電気掃除機、 ～に掃除機をかける
+1094,section11,urban,都会の 都市の
+1095,section11,expedition,探検、遠征（ 隊）；迅速さ
+1096,section11,pavement,舗装；舗装道路
+1097,section11,avenue,大通り；（～に至る）道、手段、方法
+1098,section11,metropolis,首都；大都市
+1099,section11,orient,～の方向を見定める；～向けである；（～に）適応する
+1100,section11,domain,領土、領域
+1101,section12,province,（カナダ・豪州などの）州；（the～s）地方、田舎
+1102,section12,Antarctic,(the～）南極地方
+1103,section12,delinquency,非行
+1104,section12,exploit,（資源など）を開発する；～を搾取する、～を利用する
+1105,section12,exact,正確な、厳格な
+1106,section12,genuine,本物の；心からの；純粋な
+1107,section12,novel,目新しい；奇抜な
+1108,section12,ordinary,普通の、正規の；ありふれた、平凡な
+1109,section12,significant,重大な；意味のある
+1110,section12,right,ふさわしい、正当な；正しい；右の
+1111,section12,pure,純粋な；澄んだ；汚れのない
+1112,section12,peculiar,独特の、特有の；変な、妙な
+1113,section12,standard,基準、標準、水準
+1114,section12,vital,極めて重要な；不可欠な；生命に関する；活気のある
+1115,section12,worth,～の価値がある；～の財産を所有して
+1116,section12,linguistic,言語学（上）の 言葉の
+1117,section12,illustrate,～を例証する ～に挿絵を入れる ～を（図表などを使って）説明する
+1118,section12,illiterate,読み書きができない 無学の 教養のない
+1119,section12,version,～版 型 翻訳 説明 報告 表現 解釈
+1120,section12,revise,～を改定する ～を変更する
+1121,section12,theory,理論 学説
+1122,section12,theme,主題 テーマ 作文（の題） 主題歌
+1123,section12,sculpture,彫刻 彫刻作品、 ～を彫刻する、 彫刻する
+1124,section12,portrait,肖像画 描写
+1125,section12,masterpiece,傑作 代表作 名人芸
+1126,section12,monument,記念碑 遺跡 不滅の業績
+1127,section12,usage,使い方；語法；慣習
+1128,section12,document,文書（類）、書類、記録
+1129,section12,encyclopedia,百科事典
+1130,section12,enlighten,～を啓発する、～を啓蒙する；～を教える、～に知らせる
+1131,section12,plot,陰謀；（小説・劇などの）筋；小区画地
+1132,section12,statue,（彫）像
+1133,section12,geometry,幾何学
+1134,section12,legend,伝説、言い伝え；（絵などの）題、説明文；（地図、図表の）凡例
+1135,section12,renaissance,復興、復活；（the R ～）ルネッサンス、文芸復興
+1136,section12,prose,散文（体）
+1137,section12,found,～を設立する、～を（...の基礎の上に）作る
+1138,section12,disappear,消える、見えなくなる
+1139,section12,construct,～を組み立てる；～を建設する；（文・理論など）を構成する
+1140,section12,erect,（建物など）を建てる
+1141,section12,protect,～を保護する；～を守る
+1142,section12,recover,（失っていたもの）を取り戻す；～を回復する
+1143,section12,tear,～を引き裂く.
+1144,section12,ruin,～を破滅させる；～を台無しにする；～を崩壊させる
+1145,section12,mend,～を修理する、～を修繕する；（行儀など）を改める
+1146,section12,steady,しっかりした、固定した；変わらない；落ち着いた
+1147,section12,shape,形、姿；調子、状態
+1148,section12,structure,建物；構造、構成、組織、体系
+1149,section12,biography,伝記 電気文字
+1150,section12,fable,たとえ話 つくりばなし
+1151,section12,heritage,遺産
+1152,section12,canal,運河 水路
+1153,section12,barn,納屋 物置
+1154,section12,compose,～を構成する （文章や曲）を作る ～の心を落ち着ける
+1155,section12,establish,～を設立する ～を確立する
+1156,section12,spoil,～を台無しにする ～を甘やかしてダメにする ～を大事にする、 台無しにする （食物などが）だめになる、 強奪犯 略奪品
+1157,section12,restore,～を復活させる ～をもとの状態に戻す ～を回復する
+1158,section12,collapse,崩壊；衰弱；挫折
+1159,section12,fragment,破片、かけら
+1160,section12,compile,～を編集する
+1161,section12,modify,～を修正する；～を緩和する
+1162,section12,synthesis,総合、統合、合成
+1163,section12,knit,～を編む、～を組み合わせる；（まゆ）をよせる
+1164,section12,mold,～を型に入れて作る；（人格など）を形成する
+1165,section12,shelter,避難（所）、隠れ家、住まい
+1166,section12,condominium,｛米｝（分譲）マンション［共同住宅］
+1167,section12,suite,（ホテルの）スイートルーム；（オフィスビルなどの）一室；随行員
+1168,section12,skyscraper,超高層ビル
+1169,section12,afford,～を持つ（買う）余裕がある；～を与える、もたらす
+1170,section12,allowance,小遣い；手当；許可
+1171,section12,capital,大文字；資本；首都、州都
+1172,section12,poverty,貧困、不足、不毛
+1173,section12,wealth,財産、富；裕福；豊富な～；資源
+1174,section12,economy,経済、節約
+1175,section12,cost,（金額など）がかかる；～に犠牲を払わせる
+1176,section12,consume,～を消費する；～を使い果たす
+1177,section12,sum,合計；金額；大意
+1178,section12,earn,（働いてお金など）を稼ぐ、（名声など）を得る
+1179,section12,finance,～に融資する、～に資金を提供する
+1180,section12,provide,～を供給する；～に備える；～の規定を設ける
+1181,section12,immigrant,（他国からの）移民 （入国する）移民
+1182,section12,import,～を輸入する ～を取り入れる、 輸入（品）
+1183,section12,export,～を輸出する ～を外国に広める、 輸出 (～s)輸出品
+1184,section12,transfer,～を移動する ～を転任させる ～を（・・・に）譲渡する、 移転する 乗り換える、 移転 移動 乗り換え 振り込み 譲渡
+1185,section12,expense,費用 支出 経費 犠牲
+1186,section12,bill,請求書 法案 紙幣、 ～（人）に（支払を）請求する
+1187,section12,budget,予算 経費 予算案、 （時間、金額）をわりあてる、 予算を立てる
+1188,section12,debt,借金 恩義
+1189,section12,invest,～を投資する ～をつぎ込む （人）に（～を）与える
+1190,section12,enrich,～を豊かにする
+1191,section12,recession,景気後退
+1192,section12,revenue,（国家などの）歳入；収入
+1193,section12,transaction,（業務の）処理；取引；（～ｓ）議事録、学会などの紀要
+1194,section12,stock,在庫品；備え；株、株式
+1195,section12,barter,～を物々交換する
+1196,section12,deposit,預金；手付金、保証金
+1197,section12,charge,～に（料金などを）を請求する；～を非難する；～を告発する；（仕事など）を託す
+1198,section12,injection,注射；投入
+1199,section12,subdue,～を征服する；（感情）をおさえる；（声・照明）を弱める
+1200,section12,frugal,倹約な；質素な、貧弱な
+1201,section13,choice,選択肢；選択；選ぶこと；選ばれた物［人］
+1202,section13,keen,鋭い；鋭敏な、頭の切れる；熱心な
+1203,section13,loose,ゆるい；解き放たれた；束ねていない；節度のない
+1204,section13,subjective,主観的な
+1205,section13,casual,偶然の；気取らない；思いつきの；不用意な
+1206,section13,distinguish,～を区別する.
+1207,section13,admit,～を認める；～が（学校や組織などに）入ることを許可する
+1208,section13,justify,～を正当化する、～を弁明する
+1209,section13,fit,ふさわしい；適当な、適した；体の調子がよい
+1210,section13,label,～にラベルをはる；（人）にレッテルをはる
+1211,section13,suit,～に適する、～に似合う
+1212,section13,merit,長所 功績 （すぐれた）価値 賞点
+1213,section13,precious,高価な 貴重な 大切な
+1214,section13,indispensable,必要不可欠な
+1215,section13,brilliant,輝いた 素晴らしい 優秀な 鮮明な
+1216,section13,discriminate,差別する 識別する、 ～を区別する
+1217,section13,priceless,金では買えない とても高価な とても貴重な
+1218,section13,valid,妥当な 正当な 有効な 合法的な 効力がある
+1219,section13,secure,安全な 安心な 確保された 確実な、 ～を確保する ～を守る
+1220,section13,discern,～を見分ける
+1221,section13,credible,信頼できる
+1222,section13,deserve,～に値する ～を受ける価値がある
+1223,section13,shabby,ぼろぼろの、みすぼらしい
+1224,section13,futile,無駄な、無益な
+1225,section13,crucial,決定的な；重要な
+1226,section13,neat,きちんとした；手際のよい；すばらしい
+1227,section13,magnificent,壮大な、素晴らしい、荘厳な、華やかな
+1228,section13,assess,～を評価する；～を見積もる
+1229,section13,esteem,～を尊重する、～を（...だと）思う
+1230,section13,evaluate,～を評価する
+1231,section13,malice,悪意、敵意
+1232,section13,hypocrisy,偽善、偽善行為
+1233,section13,brain,脳、頭脳；（the ～）知識人［秀才］；（～s）知能、知的顧問
+1234,section13,breathe,呼吸をする
+1235,section13,deaf,耳が聞こえない、耳を貸さない
+1236,section13,fever,熱、高熱；熱狂
+1237,section13,thirsty,のどの渇いた；渇望する
+1238,section13,medicine,薬；医学
+1239,section13,weigh,～の重さを量る；～をよく考える；(be weighed) ～に打ちひしがれる
+1240,section13,seed,種をまく
+1241,section13,poison,毒、毒薬；弊害
+1242,section13,insect,昆虫
+1243,section13,temperature,温度、体温；高熱
+1244,section13,drug,薬 麻痺
+1245,section13,virus,ウィルス コンピュータウィルス
+1246,section13,laboratory,実験室 研究所 研究室
+1247,section13,cancer,癌 （社会などの）害悪
+1248,section13,handicapped,身体障害の ハンディがある、 身体障害者
+1249,section13,cure,～を治療する ～治す、 治療法 治療 解決策
+1250,section13,nutrition,栄養 滋養物
+1251,section13,pale,顔色が悪い （色の）淡い 薄い 迫力のない
+1252,section13,starve,飢える 餓死する 非常に腹が減る 渇望する
+1253,section13,strip,～から（・・・を）はぎ取る ～を裸にする、 衣服を脱ぐ 裸になる
+1254,section13,stress,～を強調する、 ストレス 緊張 圧力 強調 重点 アクセント
+1255,section13,subsequent,後の、次の
+1256,section13,spontaneous,自発的な、自然に起きる；進んでする
+1257,section13,simultaneous,同時の
+1258,section13,retrospect,追憶、思い出
+1259,section13,precede,～に先行する、～に優先する、～の前に（...を）置く
+1260,section13,postwar,戦後の
+1261,section13,meanwhile,その間に；一方では
+1262,section13,medieval,中世の；古めかしい
+1263,section13,plague,伝染病、疫病；災い、不幸
+1264,section13,wrinkle,しわ；妙案、助言
+1265,section13,appeal,訴える
+1266,section13,exchange,～を交換する、～を交換し合う；～を両替する
+1267,section13,pay,割に合う；見返りがある；利益をもたらす；（～の）代金を払う
+1268,section13,offer,～を提供する；（～すること）を申し出る；～を差し出す
+1269,section13,beg,～を請い求める；～に（～するように）懇願する
+1270,section13,reject,～を拒絶する、～を却下する.
+1271,section13,accept,～を受け取る；～を受け入れる；（考え、意見など）を認める
+1272,section13,require,～を必要とする；～を要求する
+1273,section13,refuse,～を拒絶する、～を（きっぱりと）断る
+1274,section13,prohibit,～を禁止する
+1275,section13,furnish,～に供給する、～に備え付ける
+1276,section13,study,書斎；研究；勉強
+1277,section13,knowledge,知識
+1278,section13,intelligent,知能の高い、頭の良い
+1279,section13,intellect,知性、知力
+1280,section13,attain,～を達成する；～に到達する
+1281,section13,hardly,ほとんど～ない
+1282,section13,likely,～しそうな；ありそうな；【限定用法】本当らしい、適当な
+1283,section13,apt,（～する）傾向のある、～しがちな；適切な；ふさわしい
+1284,section13,add,～を付け加える；～と付け加えて言う；～を合計する
+1285,section13,account,説明・釈明をする；割合を占める；原因となる
+1286,section13,lack,～を欠いている［持っていない］
+1287,section13,limit,～を制限する
+1288,section13,entire,全体の、全ての、完全な
+1289,section13,decrease,減少する、低下する.
+1290,section13,mere,単なる、ほんの
+1291,section13,obvious,明らかな、見てすぐわかる、分かり切った
+1292,section13,dull,（刃や痛みなどが）鈍い；退屈な；頭の悪い
+1293,section13,extreme,極端な、極度の
+1294,section13,namely,すなわち、つまり
+1295,section13,agriculture,農業
+1296,section13,industry,産業、工業; 勤勉
+1297,section13,bent,好み；傾向
+1298,section13,tradition,伝統、慣習；言い伝え
+1299,section13,practice,実行；練習；慣例；（医師や弁護士などの）業務
+1300,section13,harsh,厳しい 辛辣な どぎつい 不快な
+1301,section14,misfortune,不幸 不運
+1302,section14,seize,～をつかみ取る ～を差し押さえる ～を理解する (be ～ed with[by])（感情など）に襲われる
+1303,section14,refuge,避難 保護 避難所 隠れ家
+1304,section14,hardship,苦労 苦難
+1305,section14,famine,餓死 飢饉 食糧不足
+1306,section14,hazard,危険、 ～を危険にさらす
+1307,section14,available,利用できる 入手できる （人が）面会可能な 手の空いている
+1308,section14,contribute,貢献する 寄与する、 ～を寄付する ～を述べる
+1309,section14,register,～を記録 登録する ～を書留にする （感情など）を表す、 登録 記録[簿] レジ
+1310,section14,load,(荷など)を積む ～に詰め込む、 積み荷 重さ 負担 多量 多数
+1311,section14,resident,住民 居住者
+1312,section14,explore,～を探検する ～を調査する
+1313,section14,destination,目的地
+1314,section14,context,(文の)前後関係 文脈 背景 状況
+1315,section14,criticism,評論 批評 避難 批判
+1316,section14,chapter,(書類などの)章 支部 分会
+1317,section14,fairy,妖精の
+1318,section14,myth,神話 社会通念 作り話
+1319,section14,describe,～を描写する ～を（・・・だと）言う ～を説明する
+1320,section14,punctual,時間を厳守する 素早い きちょうめんな
+1321,section14,prior,(時間・順序が)前の 先の 優先する
+1322,section14,primitive,原始の 原始的な 単純な
+1323,section14,initial,最初の 初期の、 (姓名・語の)頭文字
+1324,section14,era,時代 年代
+1325,section14,epoch,新時代 時代
+1326,section14,dawn,夜明け (新しい時代などの)始まり、 (事実などが)わかり始める
+1327,section14,current,現在の 最新の 通用している、 流れ 傾向 潮流
+1328,section14,beforehand,前もって 事前に
+1329,section14,inflict,（苦痛、損害、罰など）を与える
+1330,section14,chaos,混乱；混とん
+1331,section14,catastrophe,惨事；大惨事；大災害；破局
+1332,section14,adversity,逆境；不運
+1333,section14,grab,～を不意につかむ、～をひったくる
+1334,section14,catch,～に間に合う；～に感染する；（～が...しているの）を見つける；～をつかむ
+1335,section14,capture,～を捕らえる
+1336,section14,endow,～に授ける、～に与える、～に寄付する
+1337,section14,mass,かたまり、多数［量］；（the ～es）一般大衆、庶民
+1338,section14,diameter,直径
+1339,section14,dimension,大きさ；特性、特質、局面
+1340,section14,equivalent,同等の、（～に）相当する
+1341,section14,virtually,実質的には、ほとんど
+1342,section14,massive,（大きさ・程度・量などが）極めて大きい
+1343,section14,moderate,適度な、節度のある；（考え方・思想が）穏健な
+1344,section14,unanimous,全員一致の；同意見の
+1345,section14,venture,冒険；ベンチャービジネス
+1346,section14,white-collar,オフィス労働の；サラリーマンの
+1347,section14,weave,～を織る；～をまとめ上げる
+1348,section14,dispense,～を分配する；（薬）を投与する；～を免ずる
+1349,section14,warehouse,倉庫；問屋
+1350,section14,textile,織物、布地
+1351,section14,reap,～を収穫する、～を刈り入れをする；（報いなど）を受ける
+1352,section14,craft,技術；商売；手工業；悪知恵；船舶、飛行機
+1353,section14,cattle,（集合的に）畜牛、牛
+1354,section14,ambulance,救急車
+1355,section14,calamity,災難；大惨事
+1356,section14,exterminate,～を根絶する
+1357,section14,menace,脅威
+1358,section14,smother,～をもみ消す；～を厚く包む；～を窒息させる
+1359,section14,perpetual,永久の；絶え間のない
+1360,section14,drudgery,骨の折れる仕事；つまらない仕事
+1361,section14,skill,技能、技術；熟練
+1362,section14,access,接近；（情報や施設などを）利用する権利
+1363,section14,sense,感覚；判断力、センス；良識；正気、意識；意味；価値、効果
+1364,section14,gift,天賦の才能；贈り物
+1365,section14,aware,（～に）気づいている、知っている
+1366,section14,curious,好奇心の強い；好奇心をそそる；奇妙な
+1367,section14,engage,～を従事させる、～を雇う、～をひきつける
+1368,section14,interest,関心、興味；利害（関係）；利子、利息
+1369,section14,eager,熱心な；熱望して、切望して
+1370,section14,amuse,～を楽しませる
+1371,section14,bore,～を退屈させる、～をうんざりさせる
+1372,section14,imagine,～を想像する、～を心に描く
+1373,section14,deliver,～を配達する、（演説など）をする、（子）を出産する
+1374,section14,passage,通行、通路；（文章や曲の）一節；経過、通過；廊下；旅行
+1375,section14,carriage,馬車；うば車（アメリカ用法）；〈鉄道の〉客車（イギリス用法）
+1376,section14,vehicle,乗物、輸送機関；手段、媒体
+1377,section14,traffic,交通、交通量.
+1378,section14,travel,通う；伝わる；次々に見る（思い浮かべる）；進む；旅行する
+1379,section14,transport,～を輸送する; （be～ed)夢中になる、いっぱいになる
+1380,section14,train,列；列車；連続、結果；衣服のすそ
+1381,section14,wander,さまよう；迷う
+1382,section14,park,～を駐車させる
+1383,section14,square,正方形;（四角い）広場；２乗
+1384,section14,jam,～をふさぐ；～に詰め込む；～を妨害する
+1385,section14,award,～を授与する、～を与える
+1386,section14,equal,等しい、匹敵する；耐えられる
+1387,section14,fame,名声
+1388,section14,honor,名誉、敬意、光栄
+1389,section14,unfair,不公平な、不当な；慣行に反した
+1390,section14,game,獲物；ゲーム、試合
+1391,section14,match,試合；マッチ
+1392,section14,inferior,（～より）劣って、（～より）下級の
+1393,section14,superior,より優れて、優れた；上級の、上の；高慢な
+1394,section14,defeat,～を打ち負かす、～に勝つ；～をくじく
+1395,section14,succeed,成功する、うまくいく；相続する、継承する
+1396,section14,cruel,残酷な；悲惨な；ひどい
+1397,section14,evil,悪い；有害な
+1398,section14,rude,無礼な、失礼な；粗雑な；未加工の
+1399,section14,infamous,悪名高い；不名誉な
+1400,section14,misunderstanding,誤解.
+1401,section15,mistake,～を間違える；～を誤解する
+1402,section15,false,誤った、間違った；うその、偽りの、真実とは違う
+1403,section15,correct,正しい；適切な；正確な
+1404,section15,deceive,～をだます
+1405,section15,fine,～に罰金を科する
+1406,section15,judge,～を判断する；～であると判断する；～を裁く
+1407,section15,advantage,利益、利点、有利な立場
+1408,section15,reality,現実（性）、実体；本質
+1409,section15,doubt,疑い、疑念.
+1410,section15,belief,信念；確信；信じること；（～に対する）信頼
+1411,section15,aspect,側面；外観；顔つき
+1412,section15,annoy,～をいらいらさせる；～を悩ます
+1413,section15,forgive,（罪などをおかした人）を許す
+1414,section15,harm,損害、危害
+1415,section15,hurt,～の心を傷つける、～を傷つける
+1416,section15,ignore,～を無視する.
+1417,section15,struggle,苦闘、奮闘、努力、争い
+1418,section15,worry,心配する、悩む
+1419,section15,figure,姿、容姿；人物；数学、計算；図、図形
+1420,section15,break,休憩； 破損、骨折
+1421,section15,consist,（～から）成る［構成されている］；（～に）ある
+1422,section15,create,～を創造する
+1423,section15,decorate,～を飾る.
+1424,section15,destroy,～を破壊する、～を滅ぼす；～を殺す
+1425,section15,develop,～を発達させる、～を開発する、～を発育させる
+1426,section15,transform,～を変形させる、～を一変させる
+1427,section15,rest,残り（のもの）；休息、休憩；台；停止、静止
+1428,section15,disease,病気
+1429,section15,risk,危険、冒険
+1430,section15,maintain,～を主張する；～を維持する；（家族など）を扶養する；～を整備する
+1431,section15,repair,～を修理する；（健康など）を回復する; ～を償う
+1432,section15,process,過程、工程；方法、手順；経過、進展
+1433,section15,machinery,（集合的に）機械；組織
+1434,section15,goods,商品、品物
+1435,section15,artificial,人工の、人造の；不自然な
+1436,section15,invent,～を発明する；（話）をでっち上げる
+1437,section15,manufacture,製造；（～s）製品
+1438,section15,produce,～を製造する；～を生産する；～を産む；～を創作する；～を提出する
+1439,section15,task,仕事、任務
+1440,section15,paper,新聞；論文、レポート；証明書；紙
+1441,section15,wear,～をすり減らす、～を使い果たす；～を疲れさせる；～を身につけている
+1442,section15,waste,～を浪費する、～を無駄にする；～を荒廃させる；～を消耗させる
+1443,section15,yield,～を産出する；～を生ずる；～を明け渡す
+1444,section15,represent,～を表す［意味する］；～を代表する；～を描写する
+1445,section15,solid,個体の 頑丈な 確実な 充実した 濃い
+1446,section15,rigid,堅い 動かない 柔軟性のない 厳格な
+1447,section15,voluntary,自発的な 自然に生じる 任意の
+1448,section15,tame,飼いならされた 柔順な 耕作された、 ～を飼いならす (自然のちからなど)を制御する (色彩など)を和らげる
+1449,section15,flexible,柔軟な 柔らかい 融通のきく
+1450,section15,vague,あいまいな ぼんやりした うつろな かすかな
+1451,section15,stereotype,固定観念 型にはまった人[物]、 ～を型にはめる ～を形式化する
+1452,section15,tender,柔らかい もろい 弱い 優しい 親切な 触ると痛む 敏感な
+1453,section15,firm,堅固な しっかりした 安定した、 会社
+1454,section15,glittering,キラキラ輝く
+1455,section15,bright,明るい 輝いている 頭が良い
+1456,section15,positive,自信のある 肯定的な 積極的な 明確な 疑いのない
+1457,section15,negative,否定的な 打ち消しの 消極的な 負の、 否定 (写真の)ネガ
+1458,section15,conflict,(～との)闘争 衝突 (意見などの)対立 不一致、 (～と)矛盾する
+1459,section15,confront,～(困難など)に直面する ～と(対立関係で)向かい合う
+1460,section15,resist,～に抵抗する ～に敵対する ～に耐える
+1461,section15,conquer,～(領土など)を征服する ～を占める ～を克服する
+1462,section15,contradict,～と矛盾する (人の考えなど)を否定する
+1463,section15,coarse,粗雑な きめの粗い 下品な 卑猥な
+1464,section15,incredible,信じがたい 途方もない とてもすばらしい
+1465,section15,silly,愚かな バカバカしい
+1466,section15,ridiculous,ばかげた
+1467,section15,vain,無駄な 骨折り損の むなしい 価値のない うぬぼれの強い
+1468,section15,complicated,複雑な 入り組んだ
+1469,section15,complex,複雑な 複合的な、 合成物 脅迫概念 複合施設
+1470,section15,commonplace,平凡な つまらない 陳腐な、 平凡なこと 陳腐な言葉
+1471,section15,credit,信用 名誉 功績 クレジット (大学などの)単位、 ～を信じる
+1472,section15,prime,最も重要な 第一級の 主な 最初の
+1473,section15,splendid,豪華な 立派な
+1474,section15,burglar,泥棒 強盗
+1475,section15,conscience,良心
+1476,section15,guilt,罪 有罪 罪悪感
+1477,section15,arrest,～を逮捕する ～(の進行)を止める、 逮捕
+1478,section15,respect,点 細目 尊敬 重視 関心 関連、 ～を尊敬する ～を尊重する
+1479,section15,murder,～を殺害する、 殺人
+1480,section15,cheat,～をだます、 いかさまをする 不正をする、 不正行為 カンニング 詐欺師
+1481,section15,envy,～をうらやむ ～をねたむ、 ねたみ うらやむ気持ち
+1482,section15,insult,～を侮辱する ～をはずかしめる、 侮辱
+1483,section15,sorrow,悲しみ 後悔
+1484,section15,cheer,～を元気付ける ～にかっさいを送る、 元気を出す 歓声を上げる、 歓呼 励まし 喜び 元気
+1485,section15,confide,信頼する、 (秘密など)を人に打ち明ける ～を(～～～に)ゆだねる
+1486,section15,mercy,慈悲 親切 幸運 情け
+1487,section15,hostile,敵意のある 敵対的な 反感をもった 敵の
+1488,section15,hospitable,親切にもてなす 快く受け入れる 快適な
+1489,section15,grace,気品 優雅さ 好意 神の恵み 慈悲
+1490,section15,console,～を慰める
+1491,section15,bless,～を祝福する ～に恵みを与える
+1492,section15,grave,重大な 威厳のある 真面目な 厳粛な、 墓場
+1493,section15,rational,合理的な 理性的な
+1494,section15,radical,根本的な 急進的な 過激な
+1495,section15,eliminate,～を除去する ～を完全になくす ～を取り除く
+1496,section15,precise,正確な 明確な まさにその
+1497,section15,inevitable,避けられない 必然的な
+1498,section15,implicit,暗黙の
+1499,section15,feeble,弱々しい ひ弱な
+1500,section15,ugly,醜い 不快な けしからぬ
+1501,section16,rent,賃貸料 使用料 家賃、 ～を賃借りする ～を賃貸しする
+1502,section16,wage,(～s)賃金 給料
+1503,section16,promote,～を促進する ～を奨励する ～を昇進させる
+1504,section16,mechanical,機械的な 機械の、 メカニズム
+1505,section16,distribute,～を分配する ～を配布する ～を配送する
+1506,section16,corporation,企業 会社
+1507,section16,broadcast,～を放送[放映]する ～を言いふらす 吹聴する、 放送する、 放送された、 放送
+1508,section16,advertise,～を広告する ～を宣伝する ～を公にする、 広告 宣伝する 自己宣伝をする
+1509,section16,formidable,恐ろしい (仕事などが難しくて)手に負えない
+1510,section16,stink,悪臭がする (ひどく)臭い、 悪臭
+1511,section16,vulgar,下品な 粗野な 悪趣味の
+1512,section16,ambiguous,(色々な意味に取れる)あいまいな
+1513,section16,affirmative,肯定的な、 肯定 賛成
+1514,section16,fragile,壊れやすい もろい ひ弱な
+1515,section16,potent,力強い (薬などが)効力がある
+1516,section16,potential,可能な 潜在的な (発展、発達の)可能性がある、 可能性 潜在能力 潜在性
+1517,section16,stiff,堅い こわばった 断固とした 法外な
+1518,section16,capricious,気まぐれな
+1519,section16,ingenious,発明の才に富む 巧妙な 独創的な 利口な
+1520,section16,obstinate,頑固な しつこい
+1521,section16,mobile,動きやすい 移動可能な
+1522,section16,pedestrian,歩行者、 歩行者用の
+1523,section16,transition,推移 移り変わり 過渡期 変わり目
+1524,section16,emigrant,(他国への)移民
+1525,section16,migrate,移住する (鳥などが)渡る
+1526,section16,transplant,～を移植する ～を移動させる、 移植
+1527,section16,transmit,～を送る ～を伝える ～を伝染させる
+1528,section16,rush,急ぐ 急いでする、 (人)をせかす ～を急いでやる ～を突破、突進する、 あわただしさ
+1529,section16,excursion,遠足 団体の小旅行 脱線 逸脱
+1530,section16,locomotive,機関車
+1531,section16,yacht,ヨット クルーザー
+1532,section16,celebrate,～を祝う (人)を褒め称える ～を賛美する
+1533,section16,applaud,～に大きな拍手を送る
+1534,section16,collide,衝突する
+1535,section16,contend,争う 議論する、 ～を主張する
+1536,section16,opponent,(競技、討論などの)相手 敵 対抗者 反対者
+1537,section16,rival,競争相手 ライバル、 ～に匹敵する ～と互角に戦う
+1538,section16,strive,（～しようと）努力する
+1539,section16,revenge,～に復讐をする ～のあだを討つ、 復讐
+1540,section16,blunder,大失敗する、 大失敗
+1541,section16,avenge,～のあだを討つ
+1542,section16,humanity,人類 人間性 人間らしさ (the ～ies)人文科学
+1543,section16,humane,思いやりのある 人道的な
+1544,section16,err,誤りを犯す
+1545,section16,vice,悪徳 悪いこと、 (官職名の前につけて)副～ ～代理
+1546,section16,virtue,美徳 長所 (薬などの)ききめ
+1547,section16,bully,いじめ いじめっこ、 ～をいじめる
+1548,section16,abuse,～を誤用する ～を乱用する ～を虐待する、 虐待 乱用 誤用
+1549,section16,bias,偏見、 ～に偏見を持たせる ～に偏見をもたらす
+1550,section16,juvenile,青少年の 少年の、 少年 少女 青少年
+1551,section16,orphan,孤児
+1552,section16,amateur,素人 アマチュア、 未熟な アマチュアの
+1553,section16,compassion,おもいやり 哀れみ 同情
+1554,section16,charity,慈善(行為) 思いやり 慈善団体[基金] 慈善事業
+1555,section16,worship,～を崇拝する ～を賛美する、 礼拝に出る、 賛美 尊敬 崇拝
+1556,section16,animate,～を活気づける ～に生命を吹き込む
+1557,section16,cherish,～を大事にする ～を心に抱く ～を（ずっと）大事にする
+1558,section16,dedicate,～を捧げる
+1559,section16,enchant,～を魅了する ～に魔法をかける
+1560,section16,inspire,～を奮い立たせる ～を励ます ～に吹き込む ～に感動を与える
+1561,section16,allot,～を～に分配する ～を～に割り当てる ～を充当する
+1562,section16,ornament,装飾(品) 飾り
+1563,section16,metaphysical,形而上学的な きわめて抽象的な
+1564,section16,cottage,別荘 (郊外・田舎の)小さな家
+1565,section16,auditorium,講堂 公会堂 観客席
+1566,section16,cathedral,大聖堂
+1567,section16,corridor,(建物の)老化 通路
+1568,section16,ceiling,天井 (価格などの)上昇
+1569,section16,mess,混乱 取り散らかした状態、 ～を散らかす
+1570,section16,smash,～を粉々にする ～をバシッと打つ、 粉々になる 衝突する
+1571,section16,dispose,～を配列する ～を（～する）気にさせる
+1572,section16,transparent,透明な 見え透いた 明白な わかりやすい 率直な
+1573,section16,manifest,～を明らかにする ～を表す、 明らかな はっきりした
+1574,section16,illuminate,～を照明する ～を解明する
+1575,section16,eruption,噴火 発生 勃発
+1576,section16,comet,彗星
+1577,section16,barometer,気圧計 (世の中の動きなどを示す)指標 バロメーター
+1578,section16,gene,遺伝子
+1579,section16,germ,細菌
+1580,section16,worm,(ミミズなどの)虫
+1581,section16,botany,植物学
+1582,section16,cell,細胞 個室 (刑務所の)独房 電池
+1583,section16,stout,頑丈な しっかりした 太った 勇敢な
+1584,section16,prescribe,(薬、治療など)を処方する (規則など)を指示 規定する
+1585,section16,epidemic,伝染病の流行 (良くないことの)流行 蔓延、 (病気が)流行性の
+1586,section16,fiction,小説 フィクション 作り話 虚構
+1587,section16,conversation,会話
+1588,section16,article,記事 論文 品物 物 (契約などの)条件 冠詞
+1589,section16,pronounce,～を発音する ～を断言する ～を宣言する
+1590,section16,note,～に注意する ～に気づく ～に言及する ～を書き留める。 メモ 短い手紙 紙幣 注釈 記録 音符 (声の)調子
+1591,section16,mention,～だと述べる ～に言及する。 言及 軽く話題に触れること
+1592,section16,accent,なまり アクセント
+1593,section16,refer,言及する 参照する 調べる 呼ぶ。 ～に差し向ける
+1594,section16,tell,～を区別する ～を見分ける。 効く 影響する 効果がある
+1595,section16,translate,～を翻訳する ～を解釈する ～を(～～～に)移す
+1596,section16,utter,(言葉など)を発する ～を表現する。 全くの 徹底的な
+1597,section16,display,～を陳列する ～を示す ～を見せびらかす。 陳列 展示 (感情などを)表に出すこと
+1598,section16,art,芸術 美術 技術 こつ (～s)人文科学
+1599,section16,detail,細部 詳細 細かい部分
+1600,section16,confidential,内密の 機密の
+1601,section17,concrete,具体的な 有形の。コンクリート
+1602,section17,innumerable,無数の 数え切れないほどの
+1603,section17,exceed,～を超える ～より勝る
+1604,section17,exaggerate,～を誇張して言う
+1605,section17,savage,未開の 野蛮な 荒涼とした。野蛮人 野蛮な人
+1606,section17,curriculum,カリキュラム (学校の)教科課程
+1607,section17,concise,(言葉～文体などが)簡潔な
+1608,section17,bold,大胆な 怖いもの知らず ずうずうしい
+1609,section17,eccentric,常軌を逸した 一風変わった 変な
+1610,section17,insane,狂気の 正気ではない 非常識な
+1611,section17,charm,魅力 まじない お守り。～をうっとりさせる ～に魔法をかける ～を魅惑する
+1612,section17,perplex,～を当惑させる ～を悩ませる ～を複雑にする
+1613,section17,preoccupied,夢中になった 心を奪われている
+1614,section17,tedious,退屈な
+1615,section17,clumsy,(動作～態度などが)ぎこちない 不細工な (手先などが)不器用な
+1616,section17,sophisticated,洗練された 精巧な 教養のある
+1617,section17,lecture,講義 講演 説教。講義[講演]する。～に説教する
+1618,section17,letter,文字 手紙、 (～s)文字 学識
+1619,section17,poet,詩人
+1620,section17,vocabulary,語彙
+1621,section17,saying,ことわざ 格言 発言
+1622,section17,proverb,ことわざ 格言
+1623,section17,subject,主題 話題 教科 国民 家来 主語 被験者。 (～の)支配下にある (～に)かかりやすい (～を)受けやすい
+1624,section17,tale,話 物語
+1625,section17,thought,考え 思いつき 思想 思考 考えること 思いやり
+1626,section17,verbal,言葉の 言葉による 口頭の
+1627,section17,culture,文化 教養 洗練 耕作 栽培 飼育 芸術 文学
+1628,section17,prepare,～を用意する ～の支度(覚悟 心構え)をさせる ～を訓練する。準備する 覚悟する
+1629,section17,faculty,能力 才能 機能 (大学の)学部 教授陣
+1630,section17,particular,特定の 格別の 著しい 好みがうるさい 綿密な。個々の項目 (～s)詳細
+1631,section17,unexpected,思いがけない 不意の
+1632,section17,innovation,刷新 大発明 革命的な変化
+1633,section17,emerge,現れる
+1634,section17,abrupt,突然の ぶっきらぼうな
+1635,section17,burst,爆発する 突然始まる 破裂する。～を破裂[爆発]させる
+1636,section17,rouse,～を目覚めさせる ～を奮起させる
+1637,section17,coincide,一致する 同時に起こる
+1638,section17,dreadful,ひどい いやな 恐ろしい
+1639,section17,laborious,(仕事などが)骨の折れる 大変な 勤勉な 難解でおもしろくない
+1640,section17,fabulous,すばらしい
+1641,section17,unprecedented,先例のない 無比の
+1642,section17,prominent,有名な 卓越した 目立った 突き出た
+1643,section17,ripe,(果実などが)熟した 期が熟した 円熟した
+1644,section17,stern,厳格な 過酷な
+1645,section17,grim,きびしい 冷酷な 気味悪い
+1646,section17,vulnerable,傷つきやすい 攻撃されやすい
+1647,section17,nasty,不快な いやな 意地悪な 卑劣な
+1648,section17,folly,愚かさ 愚行
+1649,section17,respond,答える 反応する
+1650,section17,propose,～を提案する (～に結婚)を申し込む
+1651,section17,publish,～を出版する ～を発表する
+1652,section17,consider,～をよく考える ～を(～と)みなす ～をよく検討する ～を考慮する
+1653,section17,damage,損害 被害。 ～に損害(被害)を与える
+1654,section17,instruct,～に教える ～に指示する
+1655,section17,literal,文字通りの 文字の 正確な
+1656,section17,quest,探求。探し回る 追求する
+1657,section17,accurate,正確な 精密な 狂いのない
+1658,section17,school,学派 (魚などの)群れ 学校 専門学部。～を教育する
+1659,section17,scholar,学者
+1660,section17,philosophy,哲学 原理 人生観 考え方
+1661,section17,tone,音色 音調 調子 語調 気風 色合い。～をある調子にする
+1662,section17,alternative,二者択一 選択肢 代わりになるもの。新しい 型にはまらない どちらか一つを選ぶべき 代わりの
+1663,section17,sword,剣 刀 武力 権力 戦争
+1664,section17,fur,毛皮(製品)
+1665,section17,fluid,流動体。 流動体の 流動性の
+1666,section17,motive,動機 原動力となる
+1667,section17,wit,知力 機知 機転 ウィット 機知に富む人 機転のきく人 (～s)平静
+1668,section17,mental,心の 知的な 知能の 頭の中で考える 精神病の
+1669,section17,string,ひも 糸 一連 一列
+1670,section17,prosper,繁栄する 成功する
+1671,section17,bet,～を賭ける ～（という結果）に賭ける きっと～になると思う、 賭け
+1672,section17,controversy,論争 議論
+1673,section17,odds,(優劣などの)差 勝ち目 可能性
+1674,section17,triumph,勝利 大勝利、 勝利を得る 勝利を喜ぶ
+1675,section17,intent,熱中して 集中した、 意図 目的
+1676,section17,feat,偉業 妙技 芸当
+1677,section17,certificate,証明書 免許状
+1678,section17,toll,使用料 通行料 犠牲(者)
+1679,section17,tariff,関税 運賃 料金表
+1680,section17,fortnight,2週間
+1681,section17,climate,気候 風土 風潮
+1682,section17,humid,湿気の多い 湿った
+1683,section17,solar,太陽の 太陽光線を利用した
+1684,section17,crop,作物 収穫(量) ～を収穫する。(作物が)できる
+1685,section17,fuel,燃料
+1686,section17,technology,科学技術 科学的方法
+1687,section17,technique,技術 技法 手法 コツ
+1688,section17,tool,道具 工具 商売道具 手段
+1689,section17,way,道 進路 方向 付近 距離 やり方 方法 習慣 観点。ずっと はるかに
+1690,section17,architecture,建築学 建築物
+1691,section17,certain,ある(ひとつの[決まった]) 。 確信して (事が)確実な (～を)確信している
+1692,section17,manage,～を経営する ～を管理する ～を何とかやり遂げる まんまと～する
+1693,section17,sign,～に署名する ～に合図する。 符合 記号 しるし 兆候 身振り 合図 標識
+1694,section17,reserve,～を取っておく ～を予約する。蓄え 備蓄 遠慮
+1695,section17,preserve,～を保存する ～を保つ ～を保護する ～を保存加工する
+1696,section17,accommodate,～を宿泊させる ～を収容する ～をもてなす
+1697,section17,fatigue,疲労 疲れ。 ～を疲れさせる
+1698,section17,exhaust,～を疲れさせる ～を使い果たす
+1699,section17,drown,～を溺死させる。溺れ死ぬ ずぶ濡れになる
+1700,section17,soak,～を浸す ～をびしょぬれにする
+1701,section18,exhibit,～を展示する ～を示す (感情など)を表す[見せる]
+1702,section18,gangster,やくざ ギャング（の一人）
+1703,section18,corrupt,墜落した わいろのきく、 ～を墜落させる ～を買収する
+1704,section18,anguish,(精神的な)苦痛 非常な悲しみ
+1705,section18,torture,拷問 苦痛、 ～を拷問にかける ～をひどく苦しめる (言葉や経験)を曲解する
+1706,section18,gender,(社会的・文化的観点からの)性 性の差 性別 (文法の)性
+1707,section18,masculine,男性の 男らしい
+1708,section18,mortal,死ぬ運命にある 致命的な 人間の、 （～s）人間
+1709,section18,barbarian,野蛮な 未開の、 未開人
+1710,section18,radioactive,放射性の
+1711,section18,beverage,飲物(水を除くすべての飲み物[ジュース、コーヒー、アルコールなど])
+1712,section18,vapor,蒸気 実体のないもの
+1713,section18,bare,裸の むき出しの (物事などが)ありのままの ぎりぎりの 最低限の
+1714,section18,huge,巨大な 莫大な
+1715,section18,rough,ざらざらした 大ざっぱな おおまかな乱暴な
+1716,section18,thin,薄い 細い やせた まばらな 乏しい 水っぽい
+1717,section18,tight,きつい (予定などが)ぎっしり詰まった ケチな 厄介な 厳格な。 堅く しっかりと きつく 十分に
+1718,section18,tiny,とても小さな ごくわずかの
+1719,section18,thick,厚い 太い 込み合った (液体～気体が)濃い
+1720,section18,amount,総計 合計 総額 量 額。総額(～～～に)達する 結局(～～～に)なる
+1721,section18,brief,短時間の 簡潔な 簡単な。(人)に(状況などを)報告[発表]する 要約する。簡単な声明 要約
+1722,section18,smooth,なめらかな 順調な。～をなめらかにする
+1723,section18,deliberate,慎重な 意図的な 落ち着いた ゆっくりの。～を熟考する
+1724,section18,former,前の 以前の 前者の。(the～)前者
+1725,section18,pioneer,先駆者 開拓者。～を開拓する ～の先駆けとなる
+1726,section18,bearing,態度 関係 方向 忍耐
+1727,section18,reward,報酬 見返り 褒美。(人)に報いる ～に報酬を与える
+1728,section18,bother,～を困らせる ～に面倒をかける ～を悩ます。思い悩む 心配する。面倒 (a～)悩みの種
+1729,section18,forbid,～を禁止する ～に(～することを)禁じる
+1730,section18,privilege,特権 特典 名誉。～に特権を与える
+1731,section18,opportunity,機会 好機 チャンス
+1732,section18,rebel,反逆者 反抗者 謀反人。反乱を起こす 反抗する
+1733,section18,overwhelm,～を圧倒する ～を困惑させる
+1734,section18,trap,わな 策略、 ～を罠で捕らえる ～をだます ～を閉じ込める
+1735,section18,tact,こつ 機転 手触り
+1736,section18,stadium,スタジアム 球場
+1737,section18,estate,財源 (広大な)地所[屋敷]
+1738,section18,ecology,生態学 自然環境 エコロジー
+1739,section18,dwell,住む
+1740,section18,drought,干ばつ 日照り続き
+1741,section18,chilly,ひんやりとした (寒さで)ぞくぞくする
+1742,section18,souvenir,記念品 おみやげ
+1743,section18,lid,(箱・鍋などの)蓋 まぶた
+1744,section18,leather,革
+1745,section18,spirit,精神 霊魂 気迫 勇気
+1746,section18,species,種 種類 人類
+1747,section18,native,母国の その土地[土地]に生まれた 原産の。その土地で生まれた人 その土地の固有の動植物 原住民
+1748,section18,mankind,人類 人間
+1749,section18,alien,外国の 異質の ～になじみない ～と相容れない。外国人 宇宙人
+1750,section18,chemical,化学の 化学的な。化学薬品 薬品 化学物資 化学製品
+1751,section18,fashion,やり方 流行
+1752,section18,secretary,秘書 (米国)長官 (英国)大臣 書記(官)
+1753,section18,bank,土手 堤防 銀行
+1754,section18,address,あいさつ 演説 手際の良さ 住所 あて先。～に話しかける (心、注意力などを)～に注ぐ 向ける (問題など)に取り組む 解決のために努力する
+1755,section18,necessary,必要な 必然的な
+1756,section18,essential,不可欠の 本質的な。本質的要素
+1757,section18,imply,～を暗に意味する ～をほのめかす
+1758,section18,suggest,～を提案する ～をほのめかす ～を連想させる
+1759,section18,tidy,きちんとした きれい好きな 満足な (収入～仕事が)なかなかよい
+1760,section18,alter,～を変える
+1761,section18,adjust,～を適合させる ～を調節(調整)する (環境など)に慣れる。(～に)順応 適応する 慣れる
+1762,section18,superstition,迷信 偶像礼拝
+1763,section18,formula,公式 (決まった)方法 処方
+1764,section18,breed,(家畜など)を繁殖させる。繁殖する。(動植物の)品種
+1765,section18,bloom,(花が)咲く 栄える。(鑑賞用の)花 輝き 色つや 最盛期
+1766,section18,blossom,(果樹の)花が咲く 繁栄する 開花する。(食用果樹の)花 開花
+1767,section18,oppression,圧迫 圧制 圧迫感
+1768,section18,restrain,～を抑える ～に（・・・するのを）やめさせる
+1769,section18,reproach,～を非難する、 非難 叱責
+1770,section18,distort,(顔や事実など)をゆがめる （ものなど）をねじる
+1771,section18,alcohol,酒 アルコール
+1772,section18,stale,(食物などが)新鮮でない (表現などが)陳腐な
+1773,section18,appetite,食欲 欲求
+1774,section18,ingredient,原材料[中身] 成分 要素
+1775,section18,fossil,化石の、 化石
+1776,section18,erosion,浸食
+1777,section18,weed,雑草 役に立たない人(物)、 (雑草)を抜く ～を取り除く
+1778,section18,strict,厳格な 厳密な 全くの 完全な
+1779,section18,fair,公平な 公正な まあまあの かなりの 美しい 色白の 好天の。品評会 博覧会
+1780,section18,maximum,最大限 最高。最大限[最高]の
+1781,section18,plain,はっきりした 明らかな わかりやすい 質素な 簡素な。 平原 平野
+1782,section18,broad,広い 広範囲に及ぶ 大まかな
+1783,section18,immense,巨大な 莫大な
+1784,section18,largely,主として 大いに
+1785,section18,rare,まれな 珍しい すばらしい
+1786,section18,slight,わずかな ほっそりした 取るに足らない。侮辱
+1787,section18,sufficient,十分な
+1788,section18,so-called,いわゆる 世間でいう
+1789,section18,biology,生物学 生態
+1790,section18,atom,原子
+1791,section18,mosquito,蚊
+1792,section18,lightning,稲妻
+1793,section18,nuclear,核の 原子力の 核兵器の 中心の。核兵器
+1794,section18,ray,光線 輝き ひらめき
+1795,section18,satellite,衛星 人工衛星 衛星国家
+1796,section18,forecast,(天気など)を予報する。予報 予測
+1797,section18,soil,土 土地 土壌
+1798,section18,tide,潮(の干満) 傾向 流れ 栄枯盛衰 絶頂期 最悪時
+1799,section18,wicked,邪悪な いたずらな とてもひどい
+1800,section18,cunning,悪賢い ずるい、 ずるさ
+1801,section19,wretched,みじめな 哀れな
+1802,section19,random,でたらめの 手当たり次第の
+1803,section19,crude,天然のままの 大雑把な
+1804,section19,dreary,わびしい 退屈な
+1805,section19,tranquil,静かな 穏やかな 平静な
+1806,section19,exotic,めずらしい 異国風の 魅惑的な
+1807,section19,solemn,厳粛な 真面目な
+1808,section19,serene,(海・空などが)おだやかな 落ち着いた
+1809,section19,meager,やせた (質や量が)貧弱な (作品などが)無味乾燥な
+1810,section19,pollution,汚染、汚れ；公害
+1811,section19,wound,～を傷つける、～にけがを負わせる
+1812,section19,unfortunately,不幸にも、あいにく
+1813,section19,trouble,心配、苦労；迷惑、災難；短所；紛争、騒ぎ；病気；故障、不調
+1814,section19,tolerate,～を寛大に扱う；～を大目に見る；～に耐える
+1815,section19,survive,生き残る、なんとかやっていく
+1816,section19,suffer,（苦痛・損害など）を受ける
+1817,section19,flood,洪水、（人・物の）殺到、氾濫
+1818,section19,disaster,災害、惨事
+1819,section19,safe,安全な、確実な
+1820,section19,save,～を救う；～をたくわえる；～を省く；～を節約する；～をとっておく；～を保護する
+1821,section19,puzzle,～を困らせる；～を当惑させる
+1822,section19,shade,陰；（明暗、濃淡の）度合い；わずかな違い；微量
+1823,section19,vivid,鮮やかな、強烈な、はっきりした；生き生きとした
+1824,section19,reveal,～を明らかにする、（隠れているもの）を見せる、～を示す
+1825,section19,glow,（熱で）赤くなる、輝く
+1826,section19,grieve,深く悲しむ、嘆き悲しむ
+1827,section19,gloomy,憂鬱な、薄暗い
+1828,section19,fade,（色が）あせる、（音などが）消えていく、（花などが）しぼむ
+1829,section19,expose,～を暴露する、～をさらす
+1830,section19,wreck,破損；残骸；難破（船）
+1831,section19,torment,～をひどく苦しめる；～の意味をねじ曲げる
+1832,section19,execute,～を実行する、～を実際に行う；（人）を処刑する
+1833,section19,breakdown,故障；（精神的、肉体的な）衰弱；（交渉などの）決裂
+1834,section19,optimism,楽観主義、楽観
+1835,section19,pessimism,悲観（主義）；悲観論
+1836,section19,monotonous,単調な、退屈な
+1837,section19,dismal,気の滅入る、憂鬱な、陰鬱な、（気分的に）暗い
+1838,section19,dim,薄暗い；ぼやけた、おぼろげな
+1839,section19,terrorism,テロ行為；恐怖政治、恐怖状態
+1840,section19,ambivalence,相反［矛盾］する感情；両面価値
+1841,section19,skeptical,懐疑的な
+1842,section19,delay,～を遅らせる；～を延期する
+1843,section19,evolve,～を発展させる
+1844,section19,haste,急ぐこと、あわてること
+1845,section19,overnight,一晩で；一晩中；急に、突然
+1846,section19,period,期間；時期 、時代；ピリオド；授業の時限；月経（期間）
+1847,section19,rapid,急速な、速い
+1848,section19,permanent,（半）永久的な、永続する、耐久の；常置の、終身の
+1849,section19,postpone,～を延期する、～を後まわしにする
+1850,section19,present,（叙述用法）出席している、存在している；（限定用法）現在の
+1851,section19,term,学期、任期、期間；言葉、専門用語；条件、料金；(～s) 関係、仲
+1852,section19,suspend,～をつるす；～を一時的に中止する；～を停職（学）にする；～を保留する
+1853,section19,refrain,（～を）差し控える、慎む
+1854,section19,interrupt,～の邪魔をする、～に割り込む、～を中断する、
+1855,section19,hesitate,ためらう、躊躇する
+1856,section19,compromise,妥協（すること）、妥協案；歩み寄り
+1857,section19,divine,神の、神のような
+1858,section19,disturb,～をかき乱す、～を妨害する、～の邪魔をする
+1859,section19,awful,恐ろしい；おぞましい、ひどい
+1860,section19,awkward,不器用な；落ち着かない；やっかいな、扱いにくい、ぎこちない
+1861,section19,sustain,～を支える；～を維持する；（重さ・苦難など）に耐える；（害）を被る
+1862,section19,cautious,注意深い；用心している
+1863,section19,sanction,制裁（措置）；（法的）認可
+1864,section19,sober,酔っていない；節度のある; 真面目な
+1865,section19,sin,（宗教、道徳上の）罪
+1866,section19,pious,信心深い、敬虔な
+1867,section19,ethics,倫理学（観）；道徳（律）
+1868,section19,dogmatic,独断的な、（宗教などの）教義上の
+1869,section19,curse,のろい；ののしり言葉；災いのもと
+1870,section19,contempt,軽べつ
+1871,section19,linger,ぐずぐずする、なかなかなくならない、長引く、いつまでも物思いにふける
+1872,section19,sullen,むっつりした；（天気などが）陰気な
+1873,section19,nuisance,迷惑な行為や人；神経をいらいらさせる人（物）
+1874,section19,treasure,財宝、富、財産；貴重品；大事な人
+1875,section19,company,同席すること；仲間；来客；会社
+1876,section19,worldwide,世界的な
+1877,section19,wildlife,（集合的に）野生生物
+1878,section19,well,井戸；源泉；油井；くぼみ
+1879,section19,universal,普遍的な；全員の；万能の；宇宙の；世界中の
+1880,section19,planet,惑星；（our ～）（私たちの住む惑星）地球
+1881,section19,settle,定住する；落ち着く；沈む
+1882,section19,rural,田舎の；農村、田園の
+1883,section19,typhoon,台風
+1884,section19,tropical,熱帯の；熱烈な
+1885,section19,estimate,見積もり、見積もること
+1886,section19,assume,～を想定する；～を引き受ける；～を当然だと思う；～を装う;～の態度をとる
+1887,section19,witness,～を目撃する；～を証言する
+1888,section19,stable,安定した、しっかりした
+1889,section19,mission,任務、使命；使節団；伝道、布教
+1890,section19,assure,～を保証する；～に確信させる
+1891,section19,mine,鉱山；（知識などの）宝庫
+1892,section19,crew,乗組員、乗務員；一団
+1893,section19,coin,（新語など）をつくる；（硬貨）を鋳造する
+1894,section19,client,依頼人；（知的サービスを受ける）客
+1895,section19,drift,漂流する
+1896,section19,emission,（ガス・熱・光などの）排出、放出
+1897,section19,chore,日常の雑事、日課、つまらない仕事；（～s）毎日の決まりきった仕事
+1898,section19,nightmare,悪夢、恐ろしい出来事
+1899,section19,doom,～を運命づける
+1900,section19,cradle,ゆりかご；（the～で）幼年時代
+1901,section20,revive,生き返る；意識が回復する；よみがえる
+1902,section20,posterity,後世（の人々）；子孫
+1903,section20,ban,（法律などで）～を禁止する
+1904,section20,obsolete,すたれた、時代遅れの、古くさい
+1905,section20,bump,（ドンと）ぶつかる；（人に）ばったり会う
+1906,section20,delusion,妄想、錯覚；欺くこと
+1907,section20,apparent,［通常、叙述用法で］明白な；［通常、限定用法で］見たところ～らしい
+1908,section20,differ,異なる、意見が合わない、違う
+1909,section20,frank,率直な
+1910,section20,misleading,人の判断を誤らせる、誤解を招きやすい、まぎらわしい
+1911,section20,horrible,恐ろしい、身の毛のよだつような、ひどく不快な
+1912,section20,severe,厳しい、ひどい、厳格な
+1913,section20,value,価値（観）；重要性
+1914,section20,useless,役に立たない、無駄な；劣っている
+1915,section20,clear,澄んだ、晴れた；明らかな；はっきりした；確信した；妨げるものがない
+1916,section20,capable,（～することが）できる［能力がある］；有能な
+1917,section20,remove,～を取り除く；～を移動させる；～を脱ぐ；～を解任する、～を解雇する
+1918,section20,stream,小川；流れ
+1919,section20,roll,転がる；進む、走る
+1920,section20,assign,～を割り当てる；～を任命する
+1921,section20,suppress,～を抑える、～を鎮める；（笑いなど）を我慢する
+1922,section20,abstain,控える；棄権する (共にabstain fromの形で用いる）
+1923,section20,regulate,～を規制する；～を調整する
+1924,section20,confine,～を（...に）制限する；～（人）を（自由がきかない所に）閉じ込める
+1925,section20,resign,～を辞職する、～を断念する；～を放棄する；～に甘んじて従う
+1926,section20,restrict,～を制限する；～を（...に）限定する
+1927,section20,strain,緊張（状態）、負担；過労
+1928,section20,intrude,押し入る、入り込む；侵害する
+1929,section20,distract,～の気をそらす
+1930,section20,barrier,障害；防壁
+1931,section20,tuition,授業料；指導、教授
+1932,section20,fee,謝礼、料金
+1933,section20,digit,数字
+1934,section20,circulation,循環；流通；発行部数；（情報などが）広まること
+1935,section20,bankrupt,倒産した
+1936,section20,renounce,～を放棄する；～を絶交する
+1937,section20,obstruct,～を妨害する、～をふさぐ、～をさえぎる
+1938,section20,scene,場面；現場；眺め、光景；大騒ぎ
+1939,section20,typical,典型的な；特有の
+1940,section20,similar,類似した
+1941,section20,imitate,～を真似する、～を模倣する
+1942,section20,irrigation,灌漑（かんがい）
+1943,section20,desert,～を見捨てる
+1944,section20,sterile,不妊の；不毛の；殺菌した
+1945,section20,condition,状況；状態；条件
+1946,section20,circumstance,（周囲の）状況、事情；（経済的な）生活状態；（人の）境遇；生活事情
+1947,section20,wheat,小麦
+1948,section20,taste,味、味覚；好み、趣味
+1949,section20,clue,（問題などを解く）手がかり
+1950,section20,abstract,抽象的な
+1951,section20,gratitude,感謝の気持ち
+1952,section20,victim,犠牲者、被害者；えじき、いけにえ
+1953,section20,toil,骨折り仕事；苦労
+1954,section20,threat,脅迫、脅かすもの；（悪い）きざし
+1955,section20,suicide,自殺
+1956,section20,rescue,救助、救出
+1957,section20,up-to-date,現代的な；最新の
+1958,section20,temporary,一時の、つかの間の、仮の
+1959,section20,ultimate,究極（的）の；最終（的）の；最高の
+1960,section20,sometime,いつか、そのうち
+1961,section20,ruthless,情け容赦のない；毅然とした
+1962,section20,momentary,瞬間的な；つかの間の
+1963,section20,durable,長持ちする、耐久力のある
+1964,section20,convenient,（ものなどが）便利な；都合のよい；（場所などが）便利な；（駅などに）近い
+1965,section20,assent,賛成する
+1966,section20,disarm,～の武装解除をする；～を無力にする
+1967,section20,confound,～を困惑させる；～を混同する
+1968,section20,humility,謙遜
+1969,section20,grumble,不平を言う
+1970,section20,countenance,顔つき、容貌；落ち着き、平静
+1971,section20,prevent,～を防ぐ；(～が...するの）を妨げる
+1972,section20,remark,～と述べる；～に気づく、～に注意する
+1973,section20,recognize,～を認める；～に覚えがある；～が誰だかわかる；～を表彰する
+1974,section20,apply,～を適用する、～を応用する；（薬や化粧品など）を塗る
+1975,section20,care,（否定文、疑問文、条件文で）いやと思う；気にかける；（～を）気にする
+1976,section20,inform,～に知らせる
+1977,section20,comfort,快適さ；慰め；慰めをあたえてくれるもの［人］；安らぎ
+1978,section20,express,はっきりした；急行の、速達便の
+1979,section20,civilization,文明；文明化；文化的生活
+1980,section20,audience,聴衆、視聴者、聴衆者、読者
+1981,section20,delicate,繊細な、かよわい；（問題などが）微妙で扱いにくい；思いやりのある
+1982,section20,dead,まったく、突然、すっかり
+1983,section20,deceased,（the～）故人
+1984,section20,somebody,重要人物；大した人物、大物
+1985,section20,oppose,～に反対する；～を（～に）対立させる
+1986,section20,excel,より勝る、秀でている、卓越する
+1987,section20,defect,欠点、欠陥
+1988,section20,mature,大人の、成熟した；（果実などが）熟した
+1989,section20,flee,～から逃げる
+1990,section20,apologize,謝る、謝罪する
+1991,section20,scold,～を叱る
+1992,section20,ape,猿、類人猿
+1993,section20,anthropology,人類学
+1994,section20,adolescence,青春期［時代］、思春期；発展期
+1995,section20,contrive,～を考案する；～をたくらむ
+1996,section20,undergo,（不愉快なこと、苦しいこと）を経験する、（検査、治療など）を受ける
+1997,section20,stumble,つまずく、よろける；偶然出くわす
+1998,section20,speculate,推測する、熟考する；投機をする
+1999,section20,insure,～に保険をかける；～を保証する
+2000,section20,refrigerator,冷蔵庫
+2001,section21,pastime,気晴らし；娯楽、趣味
+2002,section21,fuss,騒ぎ立てる、ちやほやする、やきもきする
+2003,section21,throng,群衆、多数の人々
+2004,section21,questionnaire,アンケート（用紙）
+2005,section21,collect,～を集める（収集する）
+2006,section21,ready,準備ができて；喜んで［進んで］～する；即座の、巧みな
+2007,section21,hinder,～を妨げる、～の邪魔をする
+2008,section21,indicate,～を指し示す；～を明らかにする；～をほのめかす
+2009,section21,picture,イメージ；生き写し；絵；写真；映画
+2010,section21,suspect,～を怪しいと思う、～を疑う；（～だ）と思う；～に容疑をかける
+2011,section21,suppose,～だと思う、～だと仮定［推測］する；もし～だとしたら
+2012,section21,viewpoint,観点、立場；見える地点
+2013,section21,view,眺め、風景；視野、視界；意見、考え、意図；見通し；視力、視覚
+2014,section21,warn,～に警告する；～に通知する
+2015,section21,lend,（物・金・力など）を貸す
+2016,section21,per,～あたり、～につき
+2017,section21,borrow,～を借りる；（言葉など）を取り入れる；（もの）を（無料で）借りる
+2018,section21,singular,非凡な、まれにみる；単数の；別々の
+2019,section21,spell,（活動や天候の）期間、短い時間；呪文、魔法
+2020,section21,injure,～を傷つける、～に害を与える
+2021,section21,frighten,～をおびえさせる、～をびっくりさせる
+2022,section21,cynical,冷笑的な；皮肉な
+2023,section21,prey,えじき；犠牲
+2024,section21,flame,炎、激情
+2025,section21,reportedly,伝えられるところでは
+2026,section21,issue,～を発行する、（命令など）を発する；（政府などが）～を支給する
+2027,section21,retire,退職する；引き下がる；床につく
+2028,section21,scorn,～を軽蔑する
+2029,section21,riddle,謎、不可解なもの［人］
+2030,section21,prophecy,予言、預言
+2031,section21,outlook,眺望；見通し；見解、態度
+2032,section21,foretell,～を予言する
+2033,section21,foresee,～を予測する
+2034,section21,anticipate,～を予想する、～を予期する；～を楽しみにして待つ
+2035,section21,aviation,航空（学）
+2036,section21,pregnant,妊娠している；意味深長な、含蓄のある；～で満ちた
+2037,section21,carve,～を彫る；（運・人生など）を切り開く
+2038,section21,fulfill,～を果たす、（要求・目的）に添う、（要求など）を満たす
+2039,section21,deny,～を否定する、～を（...に）与えない
+2040,section21,approve,～に賛成する、～を是認する、～を承認する、～を認める
+2041,section21,punish,～を罰する
+2042,section21,alarm,～をはっとさせる；～を不安にさせる
+2043,section21,adapt,～を適応、順応させる
+2044,section21,fault,欠点；責任
+2045,section21,policy,政策、方針；手段；保険証書
+2046,section21,common,共通の；ありふれた；公共の；共有の
+2047,section21,community,地域社会；（利害などを共にする）共同社会、集団
+2048,section21,class,階級；階層；クラス；授業
+2049,section21,role,役割、任務；（役者の）役
+2050,section21,slave,奴隷
+2051,section21,electric,電気の、電動の
+2052,section21,phenomenon,現象；驚くべき事（物、才能、人）
+2053,section21,scheme,計画；たくらみ、陰謀
+2054,section21,timber,材木；森林
+2055,section21,tissue,（細胞からなる動植物の）組織；ティッシュペーパー
+2056,section21,commerce,商業；貿易；通商
+2057,section21,item,（ニュースなどの）ねた、記事；品物；品目、項目、箇条
+2058,section21,fundamental,基本的な、根本的な、抜本的な
+2059,section21,modernization,近代化、現代化
+2060,section21,creed,信条
+2061,section21,notorious,悪名高い；悪いことでよく知られた
+2062,section21,bald,（頭が）はげた、（木が）葉のない；味けのない、ありのままの
+2063,section21,resort,（手段に）訴える；（楽しい所へ）しばしば行く
+2064,section21,pension,年金、恩給
+2065,section21,output,生産高；（コンピューターなどの）出力
+2066,section21,classify,～を分類する
+2067,section21,immune,免疫のある、（～を）免れた
+2068,section21,vessel,容器、器；大型の船；（血）管
+2069,section21,blast,爆発；突風
+2070,section21,solve,（問題など）を解く、～を解決する
+2071,section21,grade,等級；学年；成績
+2072,section21,literate,読み書きのできる、教養のある、文学に通じた
+2073,section21,acknowledge,～を認める
+2074,section21,absurd,ばかげた、滑稽な； 不合理な
+2075,section21,aim,＜人が＞～することを目指す；狙う
+2076,section21,evidence,証拠、（事実を示す）形跡
+2077,section21,evident,明白な、明らかな
+2078,section21,specific,具体的な、明確な；特定の
+2079,section21,latter,後の方の；（時間的に）後半の～；後者の～
+2080,section21,frequent,たびたびの、頻繁に起こる
+2081,section21,contemporary,現代の；同時代の
+2082,section21,continue,～を続ける
+2083,section21,date,日付、デート
+2084,section21,reflect,熟考する、回想する
+2085,section21,misery,悲惨さ；苦痛、苦難；惨めさ、不幸
+2086,section21,blank,白紙の；無表情な；空白の
+2087,section21,odd,変わった；片方の；奇数の；端数の；少しの；臨時の
+2088,section21,perceive,～を（五感で）知覚する；～に気づく；～を理解する
+2089,section21,release,～を解放する；～を放つ；～を公開する；～を発売する
+2090,section21,attribute,～のせいにする；（作品など）を（...の）手によると考える
+2091,section21,invade,～に侵入する、～を侵害する
+2092,section21,fierce,どう猛な、激しい；厳しい
+2093,section21,trifle,くだらない物；少量
+2094,section21,outlet,出口；（感情などの）はけ口
+2095,section21,outcome,結果、成果
+2096,section21,embark,着手する；乗船する
+2097,section21,breakthrough,（科学上の）大発見；突破口
+2098,section21,birthrate,出生率
+2099,section21,compartment,区画；（鉄道の）仕切り客室
+2100,section21,abortion,（妊娠）中絶
+2101,section22,orbit,軌道、行路；範囲
+2102,section22,individual,個人的な、個々の、特有の、個性的な
+2103,section22,rumor,噂、風評
+2104,section22,ring,（鐘・ベル・電話などの）鳴る音、電話をかけること；指輪、輪
+2105,section22,occasion,場合、時；出来事；機会；行事、式；（～をする）理由、根拠
+2106,section22,lot,くじ；運命；区画；ひと山；（～な）やつ；たくさんのこと
+2107,section22,folk,人々；家族
+2108,section22,admire,～を賞賛する；～に感嘆する
+2109,section22,attract,～を引きつける、～を魅了する
+2110,section22,attach,～をくっつける、取り付ける；～に愛着を持たせる
+2111,section22,acquire,～を獲得する；～を習得する
+2112,section22,book,～を予約する
+2113,section22,tendency,傾向、風潮
+2114,section22,trend,傾向；流行
+2115,section22,upcoming,今度の、近づく、やってくる
+2116,section22,emergency,非常事態、緊急事態
+2117,section22,greed,どん欲、どん欲さ
+2118,section22,prospect,候補者；(～s)（成功する）見込み；将来性；可能性
+2119,section22,shrine,神社、祭壇
+2120,section22,emphasize,～を強調する、～に重点を置く
+2121,section22,contemplate,～を熟考する；～をじっと見つめる；～をよく考える
+2122,section22,predict,～を予言する；～と予測する
+2123,section22,notice,～に気づく；～に通知（通告）する；～に言及する
+2124,section22,resume,～を再び始める；～を取り戻す
+2125,section22,detect,～を見抜く、～を見つけ出す
+2126,section22,fetch,～をとってくる
+2127,section22,coerce,～を強制する
+2128,section22,undertake,～を引き受ける；～をはじめる
+2129,section22,partake,参加する；（～の）性質がいくぶんある
+2130,section22,grant,～を認める；～を与える、～をかなえる
+2131,section22,petrol,（イギリス用法）ガソリン
+2132,section22,dignity,威厳、気品、尊厳
+2133,section22,induce,～を説いて...する気にさせる；～を誘引する；～を帰納する
+2134,section22,bid,～に命令する；（競売、入札などで）値を付ける
+2135,section22,recommend,～を推薦する; ～に（～することを） 勧める
+2136,section22,permit,～を許す
+2137,section22,fail,～を怠る、～に役立たない；（試験など）を落とす
+2138,section22,expect,～を予期する；～を期待する；～だろうと思う
+2139,section22,achieve,～を成し遂げる；～を獲得する
+2140,section22,proper,適切な、ふさわしい；正式の；礼儀正しい
+2141,section22,objective,客観的な
+2142,section22,fruitful,実りの多い、有益な；肥沃な
+2143,section22,voyage,船旅、航海；人生行路
+2144,section22,wheel,車輪；（自動車の）ハンドル
+2145,section22,change,つり銭、小銭；変化；変更
+2146,section22,accomplish,～を成し遂げる；～を達成する
+2147,section22,faith,信頼、信用；信仰；誓約
+2148,section22,element,要素；元素；（the～sで）自然の力；少量、気味
+2149,section22,union,労働組合；結合、団結；一致；連邦
+2150,section22,calculate,～を計算する；～を予想する；～と判断［推定］する
+2151,section22,device,装置、工夫、道具；策略
+2152,section22,stroll,ぶらつく、散歩する、放浪する
+2153,section22,accessory,アクセサリー；装飾品；付属品
+2154,section22,leisure,余暇、自由時間
+2155,section22,enterprise,事業；企業；進取の気性
+2156,section22,quality,質、質の良さ；特性、特質
+2157,section22,qualify,～に資格を与える
+2158,section22,leak,漏れる
+2159,section22,dismay,～を狼狽させる、～を失望させる
+2160,section22,dissuade,～に（...することを）思いとどまらせる
+2161,section22,ensure,～を保証する、～を確保する、～を確実にする
+2162,section22,entitle,（人）に資格を与える、～に権利を与える；～に表題を付ける
+2163,section22,obscure,あいまいな、不明瞭な；無名の；人目に付かない、よく聞き取れない
+2164,section22,sacrifice,犠牲、いけにえ［捧げ物］
+2165,section22,confirm,～を確かめる；～（意見など）を（さらに強く）固める
+2166,section22,bestow,～を授ける、授与する
+2167,section22,install,（装置など）を取り付ける；～を任命する
+2168,section22,lumber,材木
+2169,section22,sour,すっぱい；不愉快な、気むずかしい
+2170,section22,confuse,～を混同する；～を当惑させる
+2171,section22,calm,（天候・海などが）穏やかな；（人・態度などが）冷静な
+2172,section22,ache,痛み
+2173,section22,ease,容易さ、気楽さ
+2174,section22,conscious,意識している；意識のある；意識して；気づいている；～に対する意識が高い［強い］；～を気にする；意識的［意図的］な
+2175,section22,earnest,まじめな、熱心な
+2176,section22,brave,勇気のある；勇敢な
+2177,section22,method,（組織だった）方法；筋道、体系、秩序
+2178,section22,manner,態度；方法、やり方；流儀、作風；（～s）行儀、作法；（～s）風習
+2179,section22,medium,中間；媒体、手段、方法；（複数形mediaで）報道機関、マス・メディア
+2180,section22,means,（単・複数扱い）手段、方法；（複数扱い）(生活手段としての）財産、収入
+2181,section22,correspond,一致する；相当する；文通する
+2182,section22,neglect,～を無視する、～を怠る；～に十分な世話をしない
+2183,section22,ascertain,～を確認する、～を確かめる
+2184,section22,prompt,～を促す、～を刺激する
+2185,section22,passive,消極的な、受け身の；言いなりになる；おとなしい
+2186,section22,pour,～を注ぐ；（言葉など）を浴びせる；～をどっと出す
+2187,section22,remedy,治療；改善策、方法
+2188,section22,elaborate,入念な、凝った
+2189,section22,guarantee,～を保証［約束］する
+2190,section22,commute,通勤、通学する
+2191,section22,fare,（交通機関の）運賃、料金
+2192,section22,reckon,～を計算する、～を（...だと）考える、～と推測する
+2193,section22,embarrass,～を当惑させる、～を困らせる、～に恥ずかしい思いをさせる
+2194,section22,distress,苦悩；貧困
+2195,section22,devote,～を捧げる、～を費やす
+2196,section22,detest,～をひどく嫌う
+2197,section22,betray,（秘密など）をもらす；～を裏切る；～が表情（表）に出す
+2198,section22,ponder,～を熟考する、～を（するかどうか）あれこれ考える
+2199,section22,sociology,社会学
+2200,section22,ideology,（政治的・社会的な）思想、イデオロギー
+2201,section23,asset,財産；貴重なもの
+2202,section23,subscribe,～を寄付する；～に署名する；予約購読する

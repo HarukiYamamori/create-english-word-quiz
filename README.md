@@ -1,4 +1,4 @@
-﻿英単語テスト作成プログラム
+﻿# 英単語テスト作成プログラム
 
 # 準備
 \src\main\resources\config.properties の<br>
@@ -7,16 +7,17 @@ RESULT_DIRに \src\main\resources\result<br>
 のFull Pathを記述
 
 # 実行
-executor/Main.java がテスト作成用実行ファイル
+### テスト作成用プログラム
+executor/Main.java を実行
 
-scraper/Scrape.javaは参照元CSVファイル作成用のプログラム<br>
+引数： なし
+
+### CSVファイル作成用プログラム
+scraper/Scrape.java を実行<br>
 https://ukaru-eigo.com/ <br>
 上記サイトの表から「番号」「単語」「意味」を取得し、CSVファイルを作成する<br>
-実行時引数に<br>
 
-[スクレイプ対象ページURL　番号の項目名　単語の項目名　意味の項目名]<br>
-
-を設定し実行
+引数： [スクレイプ対象ページURL　番号の項目名　単語の項目名　意味の項目名]<br>
 
 # 流れ
 参照したい単語帳、section、出題数を入力<br>

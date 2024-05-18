@@ -15,8 +15,8 @@ public class Main {
     public static void main(String[] args) throws IOException {
         String wordBook = ask("以下から単語帳を指定してください\n" + FileHandler.getFileList());
         wordItemList = FileHandler.readWordFile(wordBook);
-        createSectionList();
 
+        createSectionList();
         String section = ask("出力したいsectionを以下から選択してください(半角スペースで複数選択可)\n" + sectionList);
         List<WordItem> newWordItemList = createWordListFromSelectedSection(section);
 

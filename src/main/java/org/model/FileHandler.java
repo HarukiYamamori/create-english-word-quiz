@@ -1,6 +1,9 @@
 package org.model;
 
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,8 +13,10 @@ import org.apache.poi.xwpf.usermodel.*;
 import org.util.ConfigUtil;
 
 public class FileHandler {
+    private static final String today = Date.getCurrentDate();
     private static final String baseDir = ConfigUtil.getProperty("BASE_DIR");
-    private static final String resultDir = ConfigUtil.getProperty("RESULT_DIR");
+    private static final String resultDir = ConfigUtil.getProperty("RESULT_DIR") + today + "\\";
+    private static final Path resultPath = Paths.get(resultDir);
 
     public static void writeToFile(List<ScrapeDataList> data, String fileName) {
         System.out.println("Csvファイル作成中...");
@@ -111,6 +116,9 @@ public class FileHandler {
 
         // 文書を保存
         try {
+            if(!Files.exists(resultPath)) {
+                Files.createDirectories(resultPath);
+            }
             FileOutputStream out = new FileOutputStream(resultDir + fileNm + ".docx");
             document.write(out);
             out.close();
